@@ -1,0 +1,138 @@
+{
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_b10ff88c03308b649b50c31611c2fefb",
+          "!bp_3a6db57fce75b0244a6a5819528ddf26",
+          "!bp_f8c91c0135d5fc3458fcc131c4b77e96",
+          "!bp_d3e6275cfa6e7a04b9213b7b292a011c",
+          "!bp_62ef1cdb90f1d654d996556669caf7fa"
+        ]
+      },
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_8a5b5e272e5c34e41aa8b4facbb746d3",
+          "!bp_858a3689c285c844d9e6ce278e686491"
+        ]
+      },
+      {
+        "Level": 3,
+        "m_Features": [
+          "!bp_e45ab30f49215054e83b4ea12165409f",
+          "!bp_41d1d0de15e672349bf4262a5acf06ce",
+          "!bp_02b187038a8dce545bb34bbfb346428d"
+        ]
+      },
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_0f5c99ffb9c084545bbbe960b825d137",
+          "!bp_cb6d55dda5ab906459d18a435994a760",
+          "!bp_5451c9b8530f4b71aadcaea42bd54ab7"
+        ]
+      },
+      {
+        "Level": 5,
+        "m_Features": [
+          "!bp_ad7dc4eba7bf92f4aba23f716d7a9ba6"
+        ]
+      },
+      {
+        "Level": 6,
+        "m_Features": [
+          "!bp_02b187038a8dce545bb34bbfb346428d",
+          "!bp_0f5c99ffb9c084545bbbe960b825d137"
+        ]
+      },
+      {
+        "Level": 7,
+        "m_Features": [
+          "!bp_0f5c99ffb9c084545bbbe960b825d137"
+        ]
+      },
+      {
+        "Level": 8,
+        "m_Features": [
+          "!bp_a28693b24cc412c478b8b85877f2dad2"
+        ]
+      },
+      {
+        "Level": 9,
+        "m_Features": [
+          "!bp_02b187038a8dce545bb34bbfb346428d",
+          "!bp_0f5c99ffb9c084545bbbe960b825d137"
+        ]
+      },
+      {
+        "Level": 10,
+        "m_Features": [
+          "!bp_0f5c99ffb9c084545bbbe960b825d137"
+        ]
+      },
+      {
+        "Level": 11,
+        "m_Features": [
+          "!bp_9f13fdd044ccb8a439f27417481cb00e"
+        ]
+      },
+      {
+        "Level": 12,
+        "m_Features": [
+          "!bp_02b187038a8dce545bb34bbfb346428d",
+          "!bp_0f5c99ffb9c084545bbbe960b825d137"
+        ]
+      },
+      {
+        "Level": 13,
+        "m_Features": [
+          "!bp_0f5c99ffb9c084545bbbe960b825d137"
+        ]
+      },
+      {
+        "Level": 14,
+        "m_Features": [
+          "!bp_0437f4af5ad49b544bccf48aa7a51319"
+        ]
+      },
+      {
+        "Level": 15,
+        "m_Features": [
+          "!bp_02b187038a8dce545bb34bbfb346428d",
+          "!bp_0f5c99ffb9c084545bbbe960b825d137"
+        ]
+      },
+      {
+        "Level": 16,
+        "m_Features": [
+          "!bp_0f5c99ffb9c084545bbbe960b825d137"
+        ]
+      },
+      {
+        "Level": 17,
+        "m_Features": [
+          "!bp_6bd4a71232014254e80726f3a3756962"
+        ]
+      },
+      {
+        "Level": 18,
+        "m_Features": [
+          "!bp_02b187038a8dce545bb34bbfb346428d",
+          "!bp_0f5c99ffb9c084545bbbe960b825d137"
+        ]
+      },
+      {
+        "Level": 19,
+        "m_Features": [
+          "!bp_0f5c99ffb9c084545bbbe960b825d137"
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_eff3b63f744868845a2f511e9929f0de"
+        ]
+      }
+    ]
+}

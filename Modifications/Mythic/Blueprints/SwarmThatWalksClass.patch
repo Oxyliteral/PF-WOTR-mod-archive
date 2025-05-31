@@ -1,0 +1,247 @@
+{
+    "Components": [
+      {
+        "$type": "9d10d7abc9b160747a9f2b4738c5b4b9, MythicClassLockComponent",
+        "m_Flags": 0,
+        "name": "$MythicClassLockComponent$699c7f86-b1e1-43ce-a9f3-7e4a340dc10e",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Locks": [
+          "PlayerIsLocust",
+          "LocustUnlocked"
+        ]
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoClassLevel$ad85d211-668a-4d9d-99b4-c48be722ed1b",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_CharacterClass": "!bp_3d420403f3e7340499931324640efe96"
+      },
+      {
+        "$type": "eb2a8fed522277a499d2374478211954, PrerequisiteEtude",
+        "m_Flags": 0,
+        "name": "$PrerequisiteEtude$e38c1fb2-34d5-4490-b1ad-d4dad04ca041",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": true,
+        "HideInUI": true,
+        "Etude": "!bp_230552776ff941e1b054596bf589f9a9",
+        "UIText": {
+          "m_Key": "",
+          "m_OwnerString": "",
+          "m_OwnerPropertyPath": "",
+          "m_JsonPath": "",
+          "Shared": null
+        },
+        "NotPlaying": true
+      },
+      {
+        "$type": "36227fa23f553c147b651e99ff3cc485, MythicClassArtComponent",
+        "m_Flags": 0,
+        "name": "$MythicClassArtComponent$5309f602-1883-4772-8413-5627196589af",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_SelectorPortrait": {
+          "AssetId": "986fe0b3912932041b37e4b2199ddf83"
+        },
+        "m_SelectorPortraitLineart": {
+          "AssetId": "986fe0b3912932041b37e4b2199ddf83"
+        },
+        "m_CommonFrame": {
+          "AssetId": "6d09e5bb2ff888948a8ce7a762a8f0be"
+        },
+        "m_CommonFrameDecor": {
+          "AssetId": "7ea6e8d8754badb42a61fd5b519d6cc7"
+        },
+        "m_PortraitFrame": {
+          "AssetId": "c1843d87235e50147842e03431512d99"
+        },
+        "m_SelectorFrame": {
+          "AssetId": "543989e24eca2a1419f7e24c6bc88c54"
+        },
+        "m_AbilityFrame": {
+          "AssetId": "8c5c0ad5a36d39448a132f6e9f6dcbfb"
+        },
+        "m_Emblem": {
+          "AssetId": "c966d99d62ea483448013898d7fc0698"
+        },
+        "m_Portraits": [
+          "!bp_62b516b0da73c994db100c2cf60ab6d1"
+        ]
+      },
+      {
+        "$type": "5436494344c2496e9f8e835d990897ab, PrerequisiteMainCharacter",
+        "m_Flags": 0,
+        "name": "$PrerequisiteMainCharacter$6e5a4bc1-ca35-4773-8cdd-1047d9e03f80",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "Companion": false
+      },
+      {
+        "$type": "8214f5b783ff01342b169e1f7e47af80, PrerequisiteMythicLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteMythicLevel$9517eff8-2134-4526-87d8-8fa05a2a372a",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "Level": 9
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoClassLevel$18b52fbd-ff44-4ce2-abf2-f67f4ca85a0d",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_CharacterClass": "!bp_3d420403f3e7340499931324640efe96"
+      },
+      {
+        "$type": "04ad178079d55944f84f43d4d1725933, PrerequisiteCondition",
+        "m_Flags": 0,
+        "name": "$PrerequisiteCondition$2f02a300-b264-4d58-bdfc-cefed7456ae4",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "Condition": {
+          "$type": "1d392c8d9feed78408fbcb18f9468fb9, OrAndLogic",
+          "name": "$OrAndLogic$2967e5d3-ff0f-44d0-96cc-dad68030e95f",
+          "Not": false,
+          "Comment": "",
+          "ConditionsChecker": {
+            "Operation": "Or",
+            "Conditions": [
+              {
+                "$type": "1d392c8d9feed78408fbcb18f9468fb9, OrAndLogic",
+                "name": "$OrAndLogic$77bce8b3-19e6-43c9-9984-fce1e128d8d8",
+                "Not": false,
+                "Comment": "Is not DLC1 and not DLC3",
+                "ConditionsChecker": {
+                  "Operation": "And",
+                  "Conditions": [
+                    {
+                      "$type": "ea981728db8a5f84888ecba390671a05, EtudeStatus",
+                      "name": "$EtudeStatus$9b789497-8cb3-4fe2-bd11-6773b455f275",
+                      "Not": true,
+                      "m_Etude": "!bp_99622b80d692457890f58f73ed864f30",
+                      "NotStarted": false,
+                      "Started": false,
+                      "Playing": true,
+                      "CompletionInProgress": false,
+                      "Completed": false
+                    },
+                    {
+                      "$type": "ea981728db8a5f84888ecba390671a05, EtudeStatus",
+                      "name": "$EtudeStatus$c8c8e7e0-576d-44da-b7ba-d2f0d402b370",
+                      "Not": true,
+                      "m_Etude": "!bp_995ba39f45f44e1dba01e18efc55b0ec",
+                      "NotStarted": false,
+                      "Started": false,
+                      "Playing": true,
+                      "CompletionInProgress": false,
+                      "Completed": false
+                    }
+                  ]
+                }
+              },
+              {
+                "$type": "1d392c8d9feed78408fbcb18f9468fb9, OrAndLogic",
+                "name": "$OrAndLogic$78d68c82-c263-4ac6-9947-a7e76e6f2237",
+                "Not": false,
+                "Comment": "Player is of mythic level 7 or is already the Locust",
+                "ConditionsChecker": {
+                  "Operation": "Or",
+                  "Conditions": [
+                    {
+                      "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                      "name": "$UnitClass$5210d450-f336-4cb3-a58c-f71b6725f7f7",
+                      "Not": false,
+                      "Unit": {
+                        "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                        "name": "$PlayerCharacter$12288b4a-2ce2-497e-b5c1-8d941f70f1b6"
+                      },
+                      "m_Class": "!bp_5295b8e13c2303f4c88bdb3d7760a757",
+                      "LimitMinLevel": false,
+                      "MinLevel": {
+                        "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                        "name": "$IntConstant$ef6d6360-8655-470a-8068-f3227de86824",
+                        "Value": 1
+                      },
+                      "LimitMaxLevel": false,
+                      "MaxLevel": null
+                    },
+                    {
+                      "$type": "5236ec115f7d59046beea8a13d9f23f3, IsUnitMythicLevel",
+                      "name": "$IsUnitMythicLevel$07a25861-3b43-4ede-a7b8-b48a371d3aa3",
+                      "Not": false,
+                      "Unit": {
+                        "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                        "name": "$PlayerCharacter$615bf553-bcd1-4f24-8fb9-b18f034979e4"
+                      },
+                      "CheckMinLevel": true,
+                      "MinLevel": {
+                        "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                        "name": "$IntConstant$16890238-60b0-45a1-8f1f-0f7af9d7e2a9",
+                        "Value": 9
+                      },
+                      "CheckMaxLevel": true,
+                      "MaxLevel": {
+                        "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                        "name": "$IntConstant$14ef17da-98c2-4797-bc28-b267cca521e4",
+                        "Value": 9
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "UIText": {
+          "m_Key": "",
+          "m_OwnerString": "",
+          "m_OwnerPropertyPath": "",
+          "m_JsonPath": "",
+          "Shared": null
+        }
+      }
+    ]
+}

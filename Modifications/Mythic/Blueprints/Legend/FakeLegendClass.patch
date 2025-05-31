@@ -1,0 +1,114 @@
+{
+    "m_Overrides": [
+      "$PrerequisiteMainCharacter$d234ab52-bc85-4ea4-9598-cca4af3fe6ab",
+      "$PrerequisiteNoFeature$15a2ec63-f521-48df-8b6f-3992c688b6d0"
+    ],
+    "Components": [
+      {
+        "$type": "5436494344c2496e9f8e835d990897ab, PrerequisiteMainCharacter",
+        "name": "$PrerequisiteMainCharacter$d234ab52-bc85-4ea4-9598-cca4af3fe6ab",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "Companion": false
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoClassLevel$b8278c76-0ba7-446e-8874-93279e0a85d6",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_247aa787806d5da4f89cfc3dff0b217f"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoFeature$15a2ec63-f521-48df-8b6f-3992c688b6d0",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "IsFeatureSelectionWhiteList": false,
+        "m_Feature": "!bp_1057fd1751154ee9bde4c6b1c6ad2a2c"
+      },
+      {
+        "$type": "c2e0b6aa0ffe4b52a461c7e623073090, HideClassIfPrerequisitesRequiredComponent",
+        "name": "$HideClassIfPrerequisitesRequiredComponent$98ffdc8e-0904-488c-82a6-208198434cfa",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": []
+      },
+      {
+        "$type": "36227fa23f553c147b651e99ff3cc485, MythicClassArtComponent",
+        "name": "$MythicClassArtComponent$4dfadb4a-634b-45af-8078-14784430da45",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_SelectorPortrait": {
+          "AssetId": "94c71b08e7bd17f4f90c2ea4ced1dd74"
+        },
+        "m_SelectorPortraitLineart": {
+          "AssetId": "94c71b08e7bd17f4f90c2ea4ced1dd74"
+        },
+        "m_CommonFrame": {
+          "AssetId": "a4123bd43851a2841a8bf94027dc6119"
+        },
+        "m_CommonFrameDecor": null,
+        "m_PortraitFrame": {
+          "AssetId": "c68ebc998eaca4040ac22cc571cba49e"
+        },
+        "m_SelectorFrame": {
+          "AssetId": "6118c19e3b8ecb246bf04f5c8ef3a67e"
+        },
+        "m_AbilityFrame": {
+          "AssetId": "36b58d894cd90494589a889b2ad0aa6e"
+        },
+        "m_Emblem": null,
+        "m_Portraits": []
+      }
+    ],
+    "LocalizedName": {
+      "m_Key": "Mythic-Localization-FakeLegendClass-LocalizedName",
+      "m_OwnerString": "b82f1fbd191e1f2498266ca41f05027f",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "LocalizedDescription": {
+      "m_Key": "Mythic-Localization-FakeLegendClass-LocalizedDescription",
+      "m_OwnerString": "b82f1fbd191e1f2498266ca41f05027f",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_SignatureAbilities": [
+      "!bp_63dbc00439ff894489a624abaa8ba79c",
+      "!bp_cba1120af1fc4b7697e6799b926d0f0b"
+    ]
+}

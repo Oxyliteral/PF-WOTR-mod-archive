@@ -1,0 +1,38 @@
+{
+    "BundlesLayout":
+    {
+        "m_Guids": [],
+        "m_Bundles": []
+    },
+    "BundleDependencies": 
+    {
+        "m_List": []
+    },
+    "BlueprintPatches":
+	[
+	    {
+	    "Guid": "5693945afac189a469ef970eac8f71d9",
+	    "Filename": "DivineGuardianArchetype.patch"
+	    },
+	    {
+	    "Guid": "fd325cbba872e5f40b618970678db002",
+	    "Filename": "PaladinProgression.patch"
+	    },
+	    {
+	    "Guid": "de1fc233ad934a0a93a17ebed3ec0cfb",
+	    "Filename": "RadiancePlus1ITem.patch"
+	    },
+	    {
+	    "Guid": "6a80e629e9a5ca74da1dabc2984bba3b",
+	    "Filename": "RadiancePlus2.patch"
+	    },
+	    {
+	    "Guid": "0ff011d62af77e9428e12ac08f63709e",
+	    "Filename": "Yaniel_Longsword4HolyAvenger.patch"
+	    },
+	    {
+	    "Guid": "cf5c1a507825f184dacbc3abe14b9db1",
+	    "Filename": "Yaniel_Longsword6HolyAvenger.patch"
+	    }
+	]
+}

@@ -1,0 +1,18 @@
+{
+    "BundlesLayout":
+    {
+        "m_Guids": [],
+        "m_Bundles": []
+    },
+    "BundleDependencies": 
+    {
+        "m_List": []
+    },
+    "BlueprintPatches":
+	[
+	    {
+	    "Guid": "11c77f6853ac46aa8e2d004d6dca5f9f",
+	    "Filename": "LegendXPTable.patch"
+	    }
+	]
+}

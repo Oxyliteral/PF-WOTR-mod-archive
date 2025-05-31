@@ -1,0 +1,17 @@
+{
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_63dbc00439ff894489a624abaa8ba79c",
+          "!bp_cba1120af1fc4b7697e6799b926d0f0b"
+        ]
+      },
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_1057fd1751154ee9bde4c6b1c6ad2a2c"
+        ]
+      }
+    ]
+}

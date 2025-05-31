@@ -1,0 +1,276 @@
+{
+    "Components": [
+      {
+        "$type": "9d10d7abc9b160747a9f2b4738c5b4b9, MythicClassLockComponent",
+        "m_Flags": 0,
+        "name": "$MythicClassLockComponent$8da0f422-a9ef-44ba-b522-71db69af8d9b",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Locks": [
+          "PlayerIsDragon",
+          "DragonUnlocked"
+        ]
+      },
+      {
+        "$type": "eb2a8fed522277a499d2374478211954, PrerequisiteEtude",
+        "m_Flags": 0,
+        "name": "$PrerequisiteEtude$aa2e79f2-9c45-41d1-9c80-7ff323c2b11c",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "IsFeatureSelectionWhiteList": false,
+        "Etude": "!bp_067212d277e846a4f9ff96aee6138f0b",
+        "UIText": {
+          "m_Key": "",
+          "m_OwnerString": "",
+          "m_OwnerPropertyPath": "",
+          "m_JsonPath": "",
+          "Shared": null
+        },
+        "NotPlaying": false
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoClassLevel$cc5ef8a7-ad8a-47fb-8edf-c1d109f166ef",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "IsFeatureSelectionWhiteList": false,
+        "m_CharacterClass": "!bp_5295b8e13c2303f4c88bdb3d7760a757"
+      },
+      {
+        "$type": "eb2a8fed522277a499d2374478211954, PrerequisiteEtude",
+        "m_Flags": 0,
+        "name": "$PrerequisiteEtude$13aa80f7-f17c-4c2d-b6f4-0cc555cf6b83",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": true,
+        "HideInUI": true,
+        "IsFeatureSelectionWhiteList": false,
+        "Etude": "!bp_230552776ff941e1b054596bf589f9a9",
+        "UIText": {
+          "m_Key": "",
+          "m_OwnerString": "",
+          "m_OwnerPropertyPath": "",
+          "m_JsonPath": "",
+          "Shared": null
+        },
+        "NotPlaying": true
+      },
+      {
+        "$type": "36227fa23f553c147b651e99ff3cc485, MythicClassArtComponent",
+        "m_Flags": 0,
+        "name": "$MythicClassArtComponent$1180d1e4-4dab-48f7-bd23-8a48b0004896",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_SelectorPortrait": {
+          "AssetId": "80e1098e108b6eb4fabffd7ca4c4c493"
+        },
+        "m_SelectorPortraitLineart": {
+          "AssetId": "80e1098e108b6eb4fabffd7ca4c4c493"
+        },
+        "m_CommonFrame": {
+          "AssetId": "95c858e23e777d94bafc62f4de7f0b79"
+        },
+        "m_CommonFrameDecor": {
+          "AssetId": "8223060c4d04e134caa291cfeb006ba7"
+        },
+        "m_PortraitFrame": {
+          "AssetId": "b7683f0df780bf24989c118306ac71e8"
+        },
+        "m_SelectorFrame": {
+          "AssetId": "2e078257d544e3c428c9b7cf76718126"
+        },
+        "m_AbilityFrame": {
+          "AssetId": "ca9d93487ef1c104982b10d922414cf9"
+        },
+        "m_Emblem": {
+          "AssetId": "6c876080fc262e04bab37946a5544532"
+        },
+        "m_Portraits": [
+          "!bp_f46452f808764744b642bb66a680312e"
+        ]
+      },
+      {
+        "$type": "5436494344c2496e9f8e835d990897ab, PrerequisiteMainCharacter",
+        "m_Flags": 0,
+        "name": "$PrerequisiteMainCharacter$039a7fb7-a157-4ac3-9227-d671f0160eb7",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "IsFeatureSelectionWhiteList": false,
+        "Companion": false
+      },
+      {
+        "$type": "8214f5b783ff01342b169e1f7e47af80, PrerequisiteMythicLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteMythicLevel$88034a8a-67be-4602-a497-f8740f42527a",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "IsFeatureSelectionWhiteList": false,
+        "Level": 9
+      },
+      {
+        "$type": "04ad178079d55944f84f43d4d1725933, PrerequisiteCondition",
+        "m_Flags": 0,
+        "name": "$PrerequisiteCondition$fd600dc7-96f5-43e1-a608-d1484fa25d8a",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "IsFeatureSelectionWhiteList": false,
+        "Condition": {
+          "$type": "1d392c8d9feed78408fbcb18f9468fb9, OrAndLogic",
+          "name": "$OrAndLogic$b20efb57-5791-4ba6-9b5b-12cf8771d5d5",
+          "Not": false,
+          "Comment": "",
+          "ConditionsChecker": {
+            "Operation": "Or",
+            "Conditions": [
+              {
+                "$type": "1d392c8d9feed78408fbcb18f9468fb9, OrAndLogic",
+                "name": "$OrAndLogic$2c7bd224-c04e-47ac-9568-4ae68f6a7014",
+                "Not": false,
+                "Comment": "Is not DLC1 and not DLC3",
+                "ConditionsChecker": {
+                  "Operation": "And",
+                  "Conditions": [
+                    {
+                      "$type": "ea981728db8a5f84888ecba390671a05, EtudeStatus",
+                      "name": "$EtudeStatus$ec14b742-eb49-480b-aacd-7fce97cc29c1",
+                      "Not": true,
+                      "m_Etude": "!bp_99622b80d692457890f58f73ed864f30",
+                      "NotStarted": false,
+                      "Started": false,
+                      "Playing": true,
+                      "CompletionInProgress": false,
+                      "Completed": false
+                    },
+                    {
+                      "$type": "ea981728db8a5f84888ecba390671a05, EtudeStatus",
+                      "name": "$EtudeStatus$dc452acc-3019-4419-a979-05eb088ad862",
+                      "Not": true,
+                      "m_Etude": "!bp_995ba39f45f44e1dba01e18efc55b0ec",
+                      "NotStarted": false,
+                      "Started": false,
+                      "Playing": true,
+                      "CompletionInProgress": false,
+                      "Completed": false
+                    }
+                  ]
+                }
+              },
+              {
+                "$type": "1d392c8d9feed78408fbcb18f9468fb9, OrAndLogic",
+                "name": "$OrAndLogic$fe69ed85-4333-4989-b56d-87c5547cd5d6",
+                "Not": false,
+                "Comment": "Player is of mythic level 7 or is already the Dragon",
+                "ConditionsChecker": {
+                  "Operation": "Or",
+                  "Conditions": [
+                    {
+                      "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                      "name": "$UnitClass$ad95be7f-718a-4a71-9b56-4989ab56bbc9",
+                      "Not": false,
+                      "Unit": {
+                        "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                        "name": "$PlayerCharacter$e3981ade-16c9-4e48-9911-64d4859e25c8"
+                      },
+                      "m_Class": "!bp_daf1235b6217787499c14e4e32142523",
+                      "LimitMinLevel": false,
+                      "MinLevel": {
+                        "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                        "name": "$IntConstant$6c1123a8-a2b0-48ec-80bf-4160b873f90b",
+                        "Value": 1
+                      },
+                      "LimitMaxLevel": false,
+                      "MaxLevel": null
+                    },
+                    {
+                      "$type": "5236ec115f7d59046beea8a13d9f23f3, IsUnitMythicLevel",
+                      "name": "$IsUnitMythicLevel$06dbe69c-4015-4866-9bf6-1fc950da64ad",
+                      "Not": false,
+                      "Unit": {
+                        "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                        "name": "$PlayerCharacter$d1b619b2-e43b-4938-82fa-5a4275e78601"
+                      },
+                      "CheckMinLevel": true,
+                      "MinLevel": {
+                        "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                        "name": "$IntConstant$13b4735d-f0c3-443f-a3a6-e36f78ff3065",
+                        "Value": 9
+                      },
+                      "CheckMaxLevel": true,
+                      "MaxLevel": {
+                        "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                        "name": "$IntConstant$f53d2e42-b37a-4dac-914d-13bc1c8b988a",
+                        "Value": 9
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "UIText": {
+          "m_Key": "",
+          "m_OwnerString": "",
+          "m_OwnerPropertyPath": "",
+          "m_JsonPath": "",
+          "Shared": null
+        }
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoClassLevel$80feeff5-5a08-4956-af3b-0a38a8652eb4",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "IsFeatureSelectionWhiteList": false,
+        "m_CharacterClass": "!bp_3d420403f3e7340499931324640efe96"
+      }
+    ]
+}

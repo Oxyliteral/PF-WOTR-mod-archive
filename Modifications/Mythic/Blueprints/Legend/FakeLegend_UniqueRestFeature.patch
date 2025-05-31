@@ -1,0 +1,36 @@
+{
+    "Components": [
+      {
+        "$type": "4488c76354d714c41ada2fd356f068da, AddBuffOnCorruptionClear",
+        "name": "$AddBuffOnCorruptionClear$4eaed957-410a-40a4-9e2e-71808e851e87",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Buff": "!bp_65ea55e5521d43409d102defd153757a",
+        "m_TargetBuffRank": 1
+      }
+    ],
+    "m_DisplayName": {
+      "m_Key": "Mythic-Localization-FakeLegend_UniqueRestFeature-DisplayName",
+      "m_OwnerString": "cba1120af1fc4b7697e6799b926d0f0b",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "Mythic-Localization-FakeLegend_UniqueRestFeature-Description",
+      "m_OwnerString": "cba1120af1fc4b7697e6799b926d0f0b",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    }
+}

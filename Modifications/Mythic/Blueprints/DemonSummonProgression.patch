@@ -1,0 +1,42 @@
+{
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_fc6e7a7a35baa7e4caf1ad8c6991a844",
+          "!bp_f07e6f4321d1ed14e9d3ed39cbbe556d"
+        ]
+      },
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_349eca42c816ed24392f94d2cce4cb59"
+        ]
+      },
+      {
+        "Level": 3,
+        "m_Features": [
+          "!bp_27d9e29842518c34f9c404d9d2bbd0c3"
+        ]
+      },
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_caebc5c55aabc2443acb44b4f436f836"
+        ]
+      },
+      {
+        "Level": 5,
+        "m_Features": [
+
+          "!bp_19766eff053a1864ba597aa6b4367016"
+        ]
+      },
+      {
+        "Level": 6,
+        "m_Features": [
+          "!bp_6bce4af9b18b0da499aeb47c8770462d"
+        ]
+      }
+    ]
+}
