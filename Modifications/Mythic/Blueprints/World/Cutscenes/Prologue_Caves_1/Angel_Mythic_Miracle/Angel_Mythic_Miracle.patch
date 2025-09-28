@@ -1,0 +1,49 @@
+{
+    "m_Tracks": [
+      {
+        "m_Commands": [
+          "!bp_bb173def34c0f33468fc26039ea5cf1e"
+        ],
+        "m_EndGate": "!bp_6ac017f349d3c014a9e4ac728cd6aceb",
+        "m_Repeat": false,
+        "Comment": "",
+        "IsCollapsed": false
+      },
+      {
+        "m_Commands": [
+          "!bp_d42cac6766fa3e647b87f8716769ba72"
+        ],
+        "m_EndGate": "!bp_e282127d8ca93df4d88f2d88704cf02d",
+        "m_Repeat": false,
+        "Comment": "",
+        "IsCollapsed": false
+      },
+      {
+        "m_Commands": [
+          "!bp_c1571d21827e7444cb5dcea1d45597f0"
+        ],
+        "m_EndGate": "!bp_e282127d8ca93df4d88f2d88704cf02d",
+        "m_Repeat": false,
+        "Comment": "",
+        "IsCollapsed": false
+      },
+      {
+        "m_Commands": [
+          "!bp_d8f735eea09c4f43a630c9d0595037fd"
+        ],
+        "m_EndGate": "!bp_6ac017f349d3c014a9e4ac728cd6aceb",
+        "m_Repeat": false,
+        "Comment": "",
+        "IsCollapsed": false
+      },
+      {
+        "m_Commands": [
+          "!bp_104dd2f1355844f58edaf3db223ec0cf"
+        ],
+        "m_EndGate": "!bp_6ac017f349d3c014a9e4ac728cd6aceb",
+        "m_Repeat": false,
+        "Comment": "",
+        "IsCollapsed": false
+      }
+    ]
+}

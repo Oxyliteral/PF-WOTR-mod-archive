@@ -1,0 +1,8 @@
+{
+    "IsHidden": false,
+    "DcPerception": 0,
+    "PossibleToRevealCondition": {
+      "Operation": "And",
+      "Conditions": []
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "strings": [
+        {
+            "Key": "Mythic-Localization-MythicEndingClass-LocalizedName",
+            "Value": "Experienced Mythic Hero"
+        },
+        {
+            "Key": "Mythic-Localization-MythicEndingClass-LocalizedDescription",
+            "Value": "Mythic heroes are set apart from their contemporaries, capable of amazing feats of courage in the face of overwhelming odds. In spite of this, they're still similar in many ways to other adventurers. They have hit points, an armor class, and saving throws — in fact, most of their statistics are comparable to non-mythic characters of an equal level. Where mythic characters differ is in the special mythic abilities. These abilities enhance mythic characters both in and out of battle, allowing them to take part in extraordinary, larger-than-life adventures."
+        }
+    ]
+}
