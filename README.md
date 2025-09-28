@@ -9,6 +9,7 @@ Modifies Legend EXP table to be in 2 to 1 compared to normal exp table.
 
 Mythic:
 Allows faster and more front-loaded mythic levels, not tested (especially Legend, as who knows how game handles you being a Legend early in the game.
+Update: Played through early Legend. Game initially does not let you out of Drezen rooftop, but that is modable. Had some issues in chapter 3 with some quest chains not starting. Wintersun can be found manually, and Molten Scar has been edited to be findable without any conditions.
 
 Paladin:
 Buffs Paladin class and Radiance sword.
