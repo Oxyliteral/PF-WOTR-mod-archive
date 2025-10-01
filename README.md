@@ -19,4 +19,4 @@ Buffs Paladin class and Radiance sword.
 
 
 SpeedyExhaustion:
-Removes slow effect on Exhaustion debuff.
+Removes character speed slow effect on Exhaustion debuff.
