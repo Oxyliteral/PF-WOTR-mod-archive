@@ -12,9 +12,8 @@ Modifies Legend EXP table to be 2 to 1 compared to normal exp table.
 
 **Mythic:**
 Allows faster and more front-loaded mythic levels, also allows Legend to be picked on Drezen rooftop.
+**2 Mythic Levels in prologue** (upon gaining light power and upon defeating maze boss).
 List of changes to accomodate:
-
-Mythic levels in prologue (upon gaining light power and upon defeating maze boss).
 
 Drezen rooftop exit node (does not normally allow Legend to exit).
 
