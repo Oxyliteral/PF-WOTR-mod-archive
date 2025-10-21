@@ -15,8 +15,52 @@
 	    "Filename": "GlobalMaps\\WorldWoundGM\\Points\\Location_MoltenScar.patch"
 	    },
 	    {
+	    "Guid": "061abcb88970af949a91de221315c277",
+	    "Filename": "GlobalMaps\\WorldWoundGM\\Points\\Location_AreeluLab.patch"
+	    },
+	    {
+	    "Guid": "be8b94310fac0a746ace3af3978f3e9e",
+	    "Filename": "World\\Etudes\\Common\\WrathOfTheRighteous\\Companions\\SeelahCompanion\\SeelahInParty\\SeelahQ2\\Jewel_Shopping.patch"
+	    },
+	    {
 	    "Guid": "0b0a55eef0155674980a232f5a85515d",
 	    "Filename": "World\\Areas\\Act_2_SwordOfValor\\DrezenCitadel_Level2\\EnterPoints\\OnlyMythicsAllowed.patch"
+	    },
+	    {
+	    "Guid": "7f18896facfbd614c96e2e4ea2d6c0d5",
+	    "Filename": "World\\Dialogs\\c5\\Drezen_Under_Siedge\\Goddesses_Summit\\AnswersList_0136.patch"
+	    },
+	    {
+	    "Guid": "cfd0b7ddcd756cd47822a06106010060",
+	    "Filename": "World\\Dialogs\\c5\\AreeluLabAgain\\AreeluCell\\Answer_0012.patch"
+	    },
+	    {
+	    "Guid": "7faf68a4a3ef2394397fdd22efd80ffd",
+	    "Filename": "World\\Dialogs\\c5\\AreeluLabAgain\\AreeluCell\\Cue_0010.patch"
+	    },
+	    {
+	    "Guid": "cc728dc455ceef843bd3f3c53d8f132b",
+	    "Filename": "World\\Dialogs\\c5\\AreeluLabAgain\\AreeluCell\\Cue_0017.patch"
+	    },
+	    {
+	    "Guid": "6b0201b3cfb2b814cb14ee02a227b0be",
+	    "Filename": "World\\Dialogs\\c5\\AreeluLabAgain\\AreeluCell\\Cue_0018.patch"
+	    },
+	    {
+	    "Guid": "0d62a6d7816cf454bb14ea17a638117e",
+	    "Filename": "World\\Dialogs\\c5\\AreeluLabAgain\\AreeluCell\\Cue_0060.patch"
+	    },
+	    {
+	    "Guid": "7bfd5269e329c4d4c9c59a005c108200",
+	    "Filename": "World\\Dialogs\\c5\\AreeluLabAgain\\AreeluCell\\Cue_0061.patch"
+	    },
+	    {
+	    "Guid": "1dd04b5a707c9474faafd189354d944e",
+	    "Filename": "World\\Dialogs\\c6\\SecondFloor\\AreeluBurnTheWitch\\Cue_0055.patch"
+	    },
+	    {
+	    "Guid": "bb30ee6ab838dac4cba66ca2da58d394",
+	    "Filename": "World\\Dialogs\\c6\\TrueEnding\\Suggest\\Answer_0023.patch"
 	    },
 	    {
 	    "Guid": "1ff5c0af5998bf547be1815a0415c8d8",

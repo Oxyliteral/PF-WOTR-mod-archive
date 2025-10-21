@@ -1,0 +1,18 @@
+{
+    "Conditions": {
+      "Operation": "And",
+      "Conditions": [
+        {
+          "$type": "ea981728db8a5f84888ecba390671a05, EtudeStatus",
+          "name": "$EtudeStatus$1f09f6bf-9d09-4850-bc7c-c41d23cdfb0d",
+          "Not": true,
+          "m_Etude": "!bp_86febd9ba2122264abeac82c8da28412",
+          "NotStarted": false,
+          "Started": true,
+          "Playing": false,
+          "CompletionInProgress": false,
+          "Completed": false
+        }
+      ]
+    }
+}
