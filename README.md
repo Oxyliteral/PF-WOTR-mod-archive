@@ -4,13 +4,13 @@ archive for created mods which use WOTR's own mod system
 NOTE:
 For mods to work, there MUST be "Assemblies" and "Bundles" folder inside the same folder as "Blueprints". However, due to how github works, empty folders cannot be uploaded. Please make them manually.
 
-Alignment:
+**Alignment:**
 All Mythic Paths are any Alignment.
 
-Legend:
+**Legend:**
 Modifies Legend EXP table to be 2 to 1 compared to normal exp table.
 
-Mythic:
+**Mythic:**
 Allows faster and more front-loaded mythic levels, also allows Legend to be picked on Drezen rooftop.
 List of changes to accomodate:
 
@@ -42,9 +42,12 @@ Molten Scar is now findable without quest.
 
 Update: Played through Legend secret ending. Had some issues in chapter 3 with some quest chains not starting. Wintersun can be found manually, and Molten Scar has been edited to be findable without any conditions. Secret ending works as normal. Areelu/other reactions sometimes revert to Legend, but all conversations that give etudes should be fine. 6/7 of soft requirements are achievable. (7th unachievable one is the reach rank 10 in certain mythic classes that areelu favors).
 
-Paladin:
+**Paladin:**
 Buffs Paladin class and Radiance sword.
 
 
-SpeedyExhaustion:
+**SpeedyExhaustion:**
 Removes character speed slow effect on Exhaustion debuff.
+
+**BugfixDLC**
+DLC 6 modified: Opening cutscene that shows portal has been removed due to sometimes bugging out. Sithud reborn cutscene has been changed to the victory cutscene.
