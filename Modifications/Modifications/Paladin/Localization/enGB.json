@@ -1,0 +1,16 @@
+{
+    "strings": [
+        {
+            "Key": "c02aed5b-4eb0-40f8-ae04-5350b9dac828",
+            "Value": "Holy - Good"
+        },
+        {
+            "Key": "Paladin-Localization-HolyLawful-EnchantName",
+            "Value": "Holy - Lawful"
+        },
+        {
+            "Key": "Paladin-Localization-HolyLawful-Description",
+            "Value": "A holy weapon is imbued with holy power. This power makes the weapon lawful-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2d6 points of damage against all creatures of chaotic alignment."
+        }
+    ]
+}

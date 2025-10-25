@@ -1,0 +1,22 @@
+{
+    "BundlesLayout":
+    {
+        "m_Guids": [],
+        "m_Bundles": []
+    },
+    "BundleDependencies": 
+    {
+        "m_List": []
+    },
+    "BlueprintPatches":
+	[
+	    {
+	    "Guid": "46d1b9cc3d0fd36469a471b047d773a2",
+	    "Filename": "Buffs\\Exhausted.patch"
+	    },
+	    {
+	    "Guid": "e6f2fc5d73d88064583cb828801212f4",
+	    "Filename": "Buffs\\Fatigued.patch"
+	    }
+	]
+}

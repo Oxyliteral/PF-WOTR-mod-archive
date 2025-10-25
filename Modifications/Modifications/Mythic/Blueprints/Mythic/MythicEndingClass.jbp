@@ -1,0 +1,240 @@
+{
+  "AssetId": "6ae0c8c63a804d3a9af48ab7cc0b704e",
+  "Data": {
+    "$type": "5f2bdd25f161a0d4c97bee89cf923d77, BlueprintCharacterClass",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$PrerequisiteMainCharacter$d234ab52-bc85-4ea4-9598-cca4af3fe6ab",
+      "$PrerequisiteNoFeature$15a2ec63-f521-48df-8b6f-3992c688b6d0"
+    ],
+    "Components": [
+      {
+        "$type": "5436494344c2496e9f8e835d990897ab, PrerequisiteMainCharacter",
+        "m_Flags": 0,
+        "name": "$PrerequisiteMainCharacter$d234ab52-bc85-4ea4-9598-cca4af3fe6ab",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "IsFeatureSelectionWhiteList": false,
+        "Companion": false
+      },
+      {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteClassLevel$ede7eaf4-b441-4aa3-a37d-c16a5b03e34f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "IsFeatureSelectionWhiteList": false,
+        "m_CharacterClass": "!bp_247aa787806d5da4f89cfc3dff0b217f",
+        "Level": 2,
+        "Not": false
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoFeature$15a2ec63-f521-48df-8b6f-3992c688b6d0",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "IsFeatureSelectionWhiteList": false,
+        "m_Feature": "!bp_5929f8f2b7e340f187b1e44a6a2fabf8"
+      },
+      {
+        "$type": "c2e0b6aa0ffe4b52a461c7e623073090, HideClassIfPrerequisitesRequiredComponent",
+        "m_Flags": 0,
+        "name": "$HideClassIfPrerequisitesRequiredComponent$ecdd5165-3e18-4c36-ad4e-54accae09fb5",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": []
+      },
+      {
+        "$type": "36227fa23f553c147b651e99ff3cc485, MythicClassArtComponent",
+        "m_Flags": 0,
+        "name": "$MythicClassArtComponent$160f66ff-39b6-46f9-a3ea-37f8028d2555",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_SelectorPortrait": {
+          "AssetId": "55b1835463078974e994071f14719d15"
+        },
+        "m_SelectorPortraitLineart": {
+          "AssetId": "55b1835463078974e994071f14719d15"
+        },
+        "m_CommonFrame": {
+          "AssetId": "a4123bd43851a2841a8bf94027dc6119"
+        },
+        "m_CommonFrameDecor": null,
+        "m_PortraitFrame": {
+          "AssetId": "c68ebc998eaca4040ac22cc571cba49e"
+        },
+        "m_SelectorFrame": {
+          "AssetId": "6118c19e3b8ecb246bf04f5c8ef3a67e"
+        },
+        "m_AbilityFrame": {
+          "AssetId": "36b58d894cd90494589a889b2ad0aa6e"
+        },
+        "m_Emblem": null,
+        "m_Portraits": []
+      },
+      {
+        "$type": "04ad178079d55944f84f43d4d1725933, PrerequisiteCondition",
+        "m_Flags": 0,
+        "name": "$PrerequisiteCondition$3df754c0-cba9-4eec-9a55-3f0a411a87f5",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "IsFeatureSelectionWhiteList": false,
+        "Condition": {
+          "$type": "1d392c8d9feed78408fbcb18f9468fb9, OrAndLogic",
+          "name": "$OrAndLogic$1b8436bb-cb70-4c45-b68f-5e37e2b2216b",
+          "Not": true,
+          "Comment": "",
+          "ConditionsChecker": {
+            "Operation": "Or",
+            "Conditions": [
+              {
+                "$type": "d2f424beb5ace314887e9cc946b68dfa, CompanionInParty",
+                "name": "$CompanionInParty$868d6c61-d966-4b3d-b51a-7bee223fa6b0",
+                "Not": false,
+                "m_companion": "!bp_902da4e4180747769380d6e4b0f911c2",
+                "MatchWhenActive": true,
+                "MatchWhenDetached": true,
+                "MatchWhenRemote": true,
+                "MatchWhenDead": true,
+                "MatchWhenEx": true
+              },
+              {
+                "$type": "d2f424beb5ace314887e9cc946b68dfa, CompanionInParty",
+                "name": "$CompanionInParty$c0bae991-c9c0-48ae-be23-3ece2fcd6118",
+                "Not": false,
+                "m_companion": "!bp_07d1bfddf0da488caa4216c9fe136893",
+                "MatchWhenActive": true,
+                "MatchWhenDetached": true,
+                "MatchWhenRemote": true,
+                "MatchWhenDead": true,
+                "MatchWhenEx": true
+              },
+              {
+                "$type": "d2f424beb5ace314887e9cc946b68dfa, CompanionInParty",
+                "name": "$CompanionInParty$c638850e-a897-4447-ada8-2546bc02cf80",
+                "Not": false,
+                "m_companion": "!bp_bcb2180afd6249aaaa9adefc148704bd",
+                "MatchWhenActive": true,
+                "MatchWhenDetached": true,
+                "MatchWhenRemote": true,
+                "MatchWhenDead": true,
+                "MatchWhenEx": true
+              },
+              {
+                "$type": "d2f424beb5ace314887e9cc946b68dfa, CompanionInParty",
+                "name": "$CompanionInParty$07b0915f-3ae0-4565-a614-445f19dd1cd8",
+                "Not": false,
+                "m_companion": "!bp_670b4fb111d6459996bd031c2a7b2c6a",
+                "MatchWhenActive": true,
+                "MatchWhenDetached": true,
+                "MatchWhenRemote": true,
+                "MatchWhenDead": true,
+                "MatchWhenEx": true
+              },
+              {
+                "$type": "7929a6c98c8f0df45bb6b4c37ac1e6aa, IsCampaign",
+                "name": "$IsCampaign$0fbd7e20-0d71-46d0-8981-598294b48353",
+                "Not": false,
+                "m_BlueprintCampaign": "!bp_d7f857701f7f44e0a02d571dea798f28"
+              }
+            ]
+          }
+        },
+        "UIText": {
+          "m_Key": "",
+          "m_OwnerString": "",
+          "m_OwnerPropertyPath": "",
+          "m_JsonPath": "",
+          "Shared": null
+        }
+      }
+    ],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "Mythic-Localization-MythicEndingClass-LocalizedName",
+      "m_OwnerString": "6ae0c8c63a804d3a9af48ab7cc0b704e",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "LocalizedDescription": {
+      "m_Key": "Mythic-Localization-MythicEndingClass-LocalizedDescription",
+      "m_OwnerString": "6ae0c8c63a804d3a9af48ab7cc0b704e",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "SkillPoints": 0,
+    "HitDie": "D8",
+    "HideIfRestricted": true,
+    "HideInUI": false,
+    "PrestigeClass": false,
+    "IsMythic": true,
+    "m_IsHigherMythic": false,
+    "m_BaseAttackBonus": "!bp_059c61483910c77408d0473b11d1b922",
+    "m_FortitudeSave": "!bp_059c61483910c77408d0473b11d1b922",
+    "m_ReflexSave": "!bp_059c61483910c77408d0473b11d1b922",
+    "m_WillSave": "!bp_059c61483910c77408d0473b11d1b922",
+    "m_Progression": "!bp_c3dd138ef250414a938f91143e72001e",
+    "m_Spellbook": null,
+    "ClassSkills": [],
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "m_Archetypes": [],
+    "StartingGold": 0,
+    "m_StartingItems": [],
+    "PrimaryColor": 0,
+    "SecondaryColor": 0,
+    "m_EquipmentEntities": [],
+    "MaleEquipmentEntities": [],
+    "FemaleEquipmentEntities": [],
+    "m_Difficulty": 1,
+    "RecommendedAttributes": [],
+    "NotRecommendedAttributes": [],
+    "m_SignatureAbilities": [],
+    "m_DefaultBuild": null,
+    "m_AdditionalVisualSettings": null,
+    "VisualSettingsPriority": 0
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

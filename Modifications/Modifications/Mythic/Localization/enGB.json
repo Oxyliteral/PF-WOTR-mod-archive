@@ -1,0 +1,24 @@
+{
+    "strings": [
+        {
+            "Key": "Mythic-Localization-MythicEndingClass-LocalizedName",
+            "Value": "Experienced Mythic Hero"
+        },
+        {
+            "Key": "Mythic-Localization-MythicEndingClass-LocalizedDescription",
+            "Value": "Mythic heroes are set apart from their contemporaries, capable of amazing feats of courage in the face of overwhelming odds. In spite of this, they're still similar in many ways to other adventurers. They have hit points, an armor class, and saving throws — in fact, most of their statistics are comparable to non-mythic characters of an equal level. Where mythic characters differ is in the special mythic abilities. These abilities enhance mythic characters both in and out of battle, allowing them to take part in extraordinary, larger-than-life adventures."
+        },
+        {
+            "Key": "Mythic-Localization-GoddessSummit-LegendAccept",
+            "Value": "(Unmodded Legend) \"Iomedae, I'll accept your help. Strip me of my powers and help me to cleanse myself of the influence of the Abyss.\""
+        },
+        {
+            "Key": "Mythic-Localization-GoddessSummit-LegendReject",
+            "Value": "(Required for Secret Ending) \"I thank you both for your wise advice — but take a closer look at me and you'll understand that I don't need it.\""
+        },
+        {
+            "Key": "Mythic-Localization-GoddessSummit-LegendReject-Iomedae",
+            "Value": "{n}A strange expression appears briefly on the luminous face of the goddess — something like amazement mixed with understanding. She nods slowly.{/n} \"It pains me to hear that. But I am not your judge, and I shall not stand in your way, at least not until I see that Golarion is under threat. You have chosen your path. Farewell!\""
+        }
+    ]
+}

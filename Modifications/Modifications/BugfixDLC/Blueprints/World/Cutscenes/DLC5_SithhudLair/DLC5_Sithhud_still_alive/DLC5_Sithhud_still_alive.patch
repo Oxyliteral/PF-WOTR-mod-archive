@@ -1,0 +1,35 @@
+{
+    "m_Tracks": [
+      {
+        "m_Commands": [
+          "!bp_8ff670388cc44a2194bd2cff6bddf01a"
+        ],
+        "m_EndGate": "!bp_56c6e20fdfd4482580f20e837710d841",
+        "m_Repeat": false,
+        "Comment": "",
+        "IsCollapsed": false
+      },
+      {
+        "m_Commands": [
+          "!bp_3953ed1bf7c7c624d89868e137adcce2",
+          "!bp_d18344b0993c4a718cae34e4f4d45af7"
+        ],
+        "m_EndGate": "!bp_56c6e20fdfd4482580f20e837710d841",
+        "m_Repeat": false,
+        "Comment": "",
+        "IsCollapsed": false
+      },
+      {
+        "m_Commands": [
+          "!bp_aefaccb36aca455ea6f38d24fb2288d8",
+          "!bp_166cd71a88324ad5becee8f5ffdd0d43",
+          "!bp_82f433698c2548cfadcf9bae0e0b24aa",
+          "!bp_cdb6b1cda9ba48a1b3c928851f6c9575"
+        ],
+        "m_EndGate": "!bp_56c6e20fdfd4482580f20e837710d841",
+        "m_Repeat": false,
+        "Comment": "",
+        "IsCollapsed": false
+      }
+    ]
+}

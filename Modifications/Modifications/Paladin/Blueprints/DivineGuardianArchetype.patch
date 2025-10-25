@@ -1,0 +1,103 @@
+{
+    "AddFeatures": [
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_ba9fa17a17e5a494a93cd181b5615198",
+          "!bp_d8979d762de7da14ca64f8cedd5c1220"
+        ]
+      },
+      {
+        "Level": 3,
+        "m_Features": [
+          "!bp_b15e384109d1af147a31f6119f92c876"
+        ]
+      },
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_5a4560c300c368b4289ae2b4e4da58cf"
+        ]
+      },
+      {
+        "Level": 7,
+        "m_Features": [
+          "!bp_5a4560c300c368b4289ae2b4e4da58cf"
+        ]
+      },
+      {
+        "Level": 10,
+        "m_Features": [
+          "!bp_5a4560c300c368b4289ae2b4e4da58cf"
+        ]
+      },
+      {
+        "Level": 13,
+        "m_Features": [
+          "!bp_5a4560c300c368b4289ae2b4e4da58cf"
+        ]
+      },
+      {
+        "Level": 16,
+        "m_Features": [
+          "!bp_5a4560c300c368b4289ae2b4e4da58cf"
+        ]
+      },
+      {
+        "Level": 19,
+        "m_Features": [
+          "!bp_5a4560c300c368b4289ae2b4e4da58cf"
+        ]
+      }
+    ],
+    "RemoveFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_d3e6275cfa6e7a04b9213b7b292a011c"
+        ]
+      },
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_858a3689c285c844d9e6ce278e686491"
+        ]
+      },
+      {
+        "Level": 3,
+        "m_Features": [
+          "!bp_e45ab30f49215054e83b4ea12165409f"
+        ]
+      },
+      {
+        "Level": 6,
+        "m_Features": [
+          "!bp_0f5c99ffb9c084545bbbe960b825d137"
+        ]
+      },
+      {
+        "Level": 9,
+        "m_Features": [
+          "!bp_0f5c99ffb9c084545bbbe960b825d137"
+        ]
+      },
+      {
+        "Level": 12,
+        "m_Features": [
+          "!bp_0f5c99ffb9c084545bbbe960b825d137"
+        ]
+      },
+      {
+        "Level": 15,
+        "m_Features": [
+          "!bp_0f5c99ffb9c084545bbbe960b825d137"
+        ]
+      },
+      {
+        "Level": 18,
+        "m_Features": [
+          "!bp_0f5c99ffb9c084545bbbe960b825d137"
+        ]
+      }
+    ]
+}

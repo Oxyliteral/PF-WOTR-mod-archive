@@ -1,0 +1,22 @@
+{
+    "BundlesLayout":
+    {
+        "m_Guids": [],
+        "m_Bundles": []
+    },
+    "BundleDependencies": 
+    {
+        "m_List": []
+    },
+    "BlueprintPatches":
+	[
+	    {
+	    "Guid": "43a429dc98aa478ab9a9a4779f4eb085",
+	    "Filename": "World\\Cutscenes\\DLC5_FrozenTemple_Commander\\DLC5_FTC_OpeningScene\\DLC5_FTC_OpeningScene.patch"
+	    },
+	    {
+	    "Guid": "98e27100e86f40bcbf5471c4109313bf",
+	    "Filename": "World\\Cutscenes\\DLC5_SithhudLair\\DLC5_Sithhud_still_alive\\DLC5_Sithhud_still_alive.patch"
+	    }
+	]
+}

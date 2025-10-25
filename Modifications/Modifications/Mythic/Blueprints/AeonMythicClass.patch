@@ -1,0 +1,419 @@
+{
+    "Components": [
+      {
+        "$type": "5436494344c2496e9f8e835d990897ab, PrerequisiteMainCharacter",
+        "m_Flags": 0,
+        "name": "$PrerequisiteMainCharacter$3976413f-0508-498b-b7ee-658a365e992b",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "Companion": false
+      },
+      {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteClassLevel$dfd0320d-bfd3-4956-96b5-f4a21897835f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_CharacterClass": "!bp_6ae0c8c63a804d3a9af48ab7cc0b704e",
+        "Level": 2,
+        "Not": false
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoClassLevel$b8278c76-0ba7-446e-8874-93279e0a85d6",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_5d501618a28bdc24c80007a5c937dcb7"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoClassLevel$820ff442-037d-41b6-8d88-b9651930d780",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_8df873a8c6e48294abdb78c45834aa0a"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoClassLevel$a277ca93-9db6-4bc3-b3c3-0bcde3082340",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_8e19495ea576a8641964102d177e34b7"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoClassLevel$a332d735-cd78-4910-b269-81e4fe2f41bb",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_9a3b2c63afa79744cbca46bea0da9a16"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoClassLevel$17b6cdcb-9ac4-4e16-81db-ef25d469a01a",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_a5a9fe8f663d701488bd1db8ea40484e"
+      },
+      {
+        "$type": "eb2a8fed522277a499d2374478211954, PrerequisiteEtude",
+        "m_Flags": 0,
+        "name": "$PrerequisiteEtude$565a8347-fd75-407c-a2cf-657f9663c4c8",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "Etude": "!bp_d85f7367b453b7b468b77e5e708297ae",
+        "UIText": {
+          "m_Key": "",
+          "m_OwnerString": "",
+          "m_OwnerPropertyPath": "",
+          "m_JsonPath": "",
+          "Shared": null
+        },
+        "NotPlaying": false
+      },
+      {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$f0422f9e-8e37-43b8-9d27-d2802fb08ed8",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_aa846143662cea944b0cc4aa87fcb894"
+      },
+      {
+        "$type": "9d10d7abc9b160747a9f2b4738c5b4b9, MythicClassLockComponent",
+        "m_Flags": 0,
+        "name": "$MythicClassLockComponent$42cdd18d-99a1-433e-94a5-86413dcdaa60",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Locks": [
+          "PlayerIsAeon",
+          "AeonUnlocked"
+        ]
+      },
+      {
+        "$type": "36227fa23f553c147b651e99ff3cc485, MythicClassArtComponent",
+        "m_Flags": 0,
+        "name": "$MythicClassArtComponent$69297436-9f97-4c5e-a3f0-7a95fc3ecca6",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_SelectorPortrait": {
+          "AssetId": "c5bf9fb80f11cb94285947bcd7229a51"
+        },
+        "m_SelectorPortraitLineart": {
+          "AssetId": "c5bf9fb80f11cb94285947bcd7229a51"
+        },
+        "m_CommonFrame": {
+          "AssetId": "1fc8170c54d62034b9d272f882fbf08a"
+        },
+        "m_CommonFrameDecor": {
+          "AssetId": "9c0c75ecc53624f4e8673c2aba6182d1"
+        },
+        "m_PortraitFrame": {
+          "AssetId": "3a90cf8a427c6fd418dba00267ecb5e2"
+        },
+        "m_SelectorFrame": {
+          "AssetId": "59c33ba2659862248b54408e4fd8ec5c"
+        },
+        "m_AbilityFrame": {
+          "AssetId": "6fdf175aeed48b648b619976f9b4b51f"
+        },
+        "m_Emblem": {
+          "AssetId": "5abaaba9c5fb33f43986b1042d8837a3"
+        },
+        "m_Portraits": [
+          "!bp_b73a14af3668daa4da6cc7533e77b784"
+        ]
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoClassLevel$6031fc8c-6dad-4187-85d1-965642e8b139",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_5295b8e13c2303f4c88bdb3d7760a757"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoClassLevel$dda7c36c-414d-4361-bafa-1d24ac1e419b",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_211f49705f478b3468db6daa802452a2"
+      },
+      {
+        "$type": "eb2a8fed522277a499d2374478211954, PrerequisiteEtude",
+        "m_Flags": 0,
+        "name": "$PrerequisiteEtude$2cd9ae5f-706f-438b-9aee-6bec1ec902dd",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": true,
+        "HideInUI": true,
+        "Etude": "!bp_230552776ff941e1b054596bf589f9a9",
+        "UIText": {
+          "m_Key": "",
+          "m_OwnerString": "",
+          "m_OwnerPropertyPath": "",
+          "m_JsonPath": "",
+          "Shared": null
+        },
+        "NotPlaying": true
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoClassLevel$e2423527-c89c-48c8-aef1-253127dfd62e",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_CharacterClass": "!bp_daf1235b6217787499c14e4e32142523"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoClassLevel$f9b081b5-3ede-495d-abc4-e95021502039",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_CharacterClass": "!bp_3d420403f3e7340499931324640efe96"
+      },
+      {
+        "$type": "04ad178079d55944f84f43d4d1725933, PrerequisiteCondition",
+        "m_Flags": 0,
+        "name": "$PrerequisiteCondition$2c569589-582b-4961-b12a-e188248d2b4b",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "ForcedTrue",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "Condition": {
+          "$type": "1d392c8d9feed78408fbcb18f9468fb9, OrAndLogic",
+          "name": "$OrAndLogic$daee5b9c-5e7f-409c-882b-3efed68e58ef",
+          "Not": false,
+          "Comment": "Main character, Aeon and not Devil",
+          "ConditionsChecker": {
+            "Operation": "And",
+            "Conditions": [
+              {
+                "$type": "183e9ec0b3009264d9cad61000c3c9f7, ContextConditionIsMainCharacter",
+                "name": "$ContextConditionIsMainCharacter$b339430d-4c15-4b2e-a0cf-fd2ea57bc267",
+                "Not": false
+              },
+              {
+                "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                "name": "$UnitClass$7706f08e-4ab6-4bed-ad14-9e89bdc3bfe8",
+                "Not": false,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$822500ee-c87c-410b-9375-0b4c26c107a0"
+                },
+                "m_Class": "!bp_15a85e67b7d69554cab9ed5830d0268e",
+                "LimitMinLevel": true,
+                "MinLevel": {
+                  "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                  "name": "$IntConstant$e230eee5-2abe-4cb7-a7db-41a455fa14f3",
+                  "Value": 1
+                },
+                "LimitMaxLevel": false,
+                "MaxLevel": null
+              },
+              {
+                "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                "name": "$UnitClass$533ec8fb-b1be-44cf-b8a0-062c2551ec13",
+                "Not": true,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$a9ac7740-1a18-42f6-bcfa-182ad680cda6"
+                },
+                "m_Class": "!bp_211f49705f478b3468db6daa802452a2",
+                "LimitMinLevel": false,
+                "MinLevel": null,
+                "LimitMaxLevel": false,
+                "MaxLevel": {
+                  "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                  "name": "$IntConstant$498c220d-c0c5-49b0-817d-0302c024eb92",
+                  "Value": 0
+                }
+              }
+            ]
+          }
+        },
+        "UIText": {
+          "m_Key": "",
+          "m_OwnerString": "",
+          "m_OwnerPropertyPath": "",
+          "m_JsonPath": "",
+          "Shared": null
+        }
+      },
+      {
+        "$type": "04ad178079d55944f84f43d4d1725933, PrerequisiteCondition",
+        "m_Flags": 0,
+        "name": "$PrerequisiteCondition$92748f14-7892-4f71-af48-187d02e40d6f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "Condition": {
+          "$type": "1d392c8d9feed78408fbcb18f9468fb9, OrAndLogic",
+          "name": "$OrAndLogic$78e182b2-7b27-47af-bae1-b4ac3956f322",
+          "Not": false,
+          "Comment": "Devil locked or DLC1 or DLC3",
+          "ConditionsChecker": {
+            "Operation": "Or",
+            "Conditions": [
+              {
+                "$type": "ea981728db8a5f84888ecba390671a05, EtudeStatus",
+                "name": "$EtudeStatus$135f71ae-1ba6-4e77-999b-41435648f783",
+                "Not": true,
+                "m_Etude": "!bp_26028ff893925ef44aa1179906ac9265",
+                "NotStarted": false,
+                "Started": false,
+                "Playing": true,
+                "CompletionInProgress": false,
+                "Completed": false
+              },
+              {
+                "$type": "ea981728db8a5f84888ecba390671a05, EtudeStatus",
+                "name": "$EtudeStatus$835952cd-7f0c-4148-a382-f507611fd5fa",
+                "Not": false,
+                "m_Etude": "!bp_99622b80d692457890f58f73ed864f30",
+                "NotStarted": false,
+                "Started": false,
+                "Playing": true,
+                "CompletionInProgress": false,
+                "Completed": false
+              },
+              {
+                "$type": "ea981728db8a5f84888ecba390671a05, EtudeStatus",
+                "name": "$EtudeStatus$a25c2137-b958-415f-9085-ff8c65c5c64e",
+                "Not": false,
+                "m_Etude": "!bp_995ba39f45f44e1dba01e18efc55b0ec",
+                "NotStarted": false,
+                "Started": false,
+                "Playing": true,
+                "CompletionInProgress": false,
+                "Completed": false
+              }
+            ]
+          }
+        },
+        "UIText": {
+          "m_Key": "",
+          "m_OwnerString": "",
+          "m_OwnerPropertyPath": "",
+          "m_JsonPath": "",
+          "Shared": null
+        }
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoClassLevel$e2084032-8aa2-496c-aa2e-771ce26ca0e8",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_CharacterClass": "!bp_211f49705f478b3468db6daa802452a2"
+      }
+    ]
+}

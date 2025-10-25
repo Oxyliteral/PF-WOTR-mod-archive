@@ -1,0 +1,20 @@
+{
+    "m_MaxAmount": {
+      "BaseValue": 10,
+      "IncreasedByLevel": false,
+      "m_Class": [],
+      "m_Archetypes": [],
+      "LevelIncrease": 0,
+      "IncreasedByLevelStartPlusDivStep": false,
+      "StartingLevel": 0,
+      "StartingIncrease": 0,
+      "LevelStep": 0,
+      "PerStepIncrease": 0,
+      "MinClassLevelIncrease": 0,
+      "m_ClassDiv": [],
+      "m_ArchetypesDiv": [],
+      "OtherClassesModifier": 0.0,
+      "IncreasedByStat": false,
+      "ResourceBonusStat": "Unknown"
+    }
+}

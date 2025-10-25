@@ -1,0 +1,81 @@
+{
+  "AssetId": "d7831cee89a646cd937a8129f03ec040",
+  "Data": {
+    "$type": "8eee9d45ddcfa614d99610c1892993e3, BlueprintCue",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "Иомедай исчезает",
+    "ParentAsset": "c667af2e7e5b4d18890289841a631c7b",
+    "ShowOnce": false,
+    "ShowOnceCurrentDialog": false,
+    "Conditions": {
+      "Operation": "And",
+      "Conditions": []
+    },
+    "Text": {
+      "m_Key": "Mythic-Localization-GoddessSummit-LegendReject-Iomedae",
+      "m_OwnerString": "d7831cee89a646cd937a8129f03ec040",
+      "m_OwnerPropertyPath": "Text",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "Experience": "NoExperience",
+    "Speaker": {
+      "m_Blueprint": "!bp_9a1443603c9353d4194a583a31228c8b",
+      "MoveCamera": true,
+      "NotRevealInFoW": false,
+      "NoSpeaker": false,
+      "SwitchDual": false,
+      "m_SpeakerPortrait": null
+    },
+    "TurnSpeaker": true,
+    "Animation": "Angry",
+    "m_Listener": null,
+    "OnShow": {
+      "Actions": []
+    },
+    "OnStop": {
+      "Actions": [
+        {
+          "$type": "0edf8920d3df9b54c9db189bdad67cac, HideUnit",
+          "name": "$HideUnit$34a85203-0f70-43eb-bd62-b691dd95c7d5",
+          "Target": {
+            "$type": "da45a98792587f244901f1020d4b35b1, UnitFromSpawner",
+            "name": "$UnitFromSpawner$99e085d7-4414-4b8d-9b38-56ab96384548",
+            "Spawner": {
+              "EntityNameInEditor": "Iomedai",
+              "_entity_id": "dc2a5115-5827-4226-a5c8-e109d41782fe",
+              "SceneAssetGuid": "73be1866bac863e4d9097254a9096c81"
+            }
+          },
+          "Unhide": false,
+          "Fade": true
+        },
+		{
+          "$type": "efeff58c12d74f00a73213c7f3750543, GainMythicLevel",
+          "name": "$GainMythicLevel$a645588d-bf28-42cf-9a7b-2736142ac389",
+          "Levels": 10
+        },
+      ]
+    },
+    "AlignmentShift": {
+      "Direction": "TrueNeutral",
+      "Value": 0,
+      "Description": {
+        "m_Key": "",
+        "m_OwnerString": "",
+        "m_OwnerPropertyPath": "",
+        "m_JsonPath": "",
+        "Shared": null
+      }
+    },
+    "Answers": [],
+    "Continue": {
+      "Cues": [
+        "!bp_f318ac025db93104a987cd91d9c159cb"
+      ],
+      "Strategy": "First"
+    }
+  }
+}

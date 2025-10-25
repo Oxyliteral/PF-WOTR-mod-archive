@@ -1,0 +1,83 @@
+{
+  "AssetId": "3d584b895ab54590a95eeec71789b590",
+  "Data": {
+    "$type": "ca24785c24384d142a6c22d7585bb3a6, BlueprintWeaponEnchantment",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$WeaponDamageAgainstAlignment$3ac2acd7-5e33-4bca-a82e-e0f9805d79ce"
+    ],
+    "Components": [
+      {
+        "$type": "48f7d20ff3876894b849cb234c542556, WeaponDamageAgainstAlignment",
+        "m_Flags": 0,
+        "name": "$WeaponDamageAgainstAlignment$3ac2acd7-5e33-4bca-a82e-e0f9805d79ce",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "EnemyAlignment": "Chaotic",
+        "WeaponAlignment": "Lawful",
+        "Value": {
+          "DiceType": "D6",
+          "DiceCountValue": {
+            "ValueType": "Simple",
+            "Value": 2,
+            "ValueRank": "Default",
+            "ValueShared": "Damage",
+            "Property": "None",
+            "m_CustomProperty": null
+          },
+          "BonusValue": {
+            "ValueType": "Simple",
+            "Value": 0,
+            "ValueRank": "Default",
+            "ValueShared": "Damage",
+            "Property": "None",
+            "m_CustomProperty": null
+          }
+        },
+        "DamageType": "Holy"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_EnchantName": {
+      "m_Key": "Paladin-Localization-HolyLawful-EnchantName",
+      "m_OwnerString": "3d584b895ab54590a95eeec71789b590",
+      "m_OwnerPropertyPath": "m_EnchantName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "Paladin-Localization-HolyLawful-Description",
+      "m_OwnerString": "3d584b895ab54590a95eeec71789b590",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Prefix": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Suffix": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_EnchantmentCost": 2,
+    "m_IdentifyDC": 10,
+    "WeaponFxPrefab": {
+      "guid": "d739a9e236ba6164ab854b356bfb6ed5",
+      "fileid": 1508948273749984
+    }
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

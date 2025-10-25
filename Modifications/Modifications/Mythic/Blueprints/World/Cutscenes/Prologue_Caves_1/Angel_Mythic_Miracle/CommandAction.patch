@@ -1,0 +1,29 @@
+{
+    "Action": {
+      "Actions": [
+        {
+          "$type": "eefa4c5532569b74d9ae18b954372790, DetachBuff",
+          "name": "$DetachBuff$42831bd2-7c87-4d20-9f4b-34ff27db664c",
+          "m_Buff": "!bp_8c902ab79f74c5c40a8071d314a0bab0",
+          "Target": {
+            "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+            "name": "$PlayerCharacter$8974c607-3375-4b40-84f1-9f185a496669"
+          }
+        },
+        {
+          "$type": "7e9b6e3ec852e264e8fcd8c4b5956eee, AddFact",
+          "name": "$AddFact$c2866dbb-dca0-4a91-a8d6-49c8a5ae895e",
+          "Unit": {
+            "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+            "name": "$PlayerCharacter$a52e074a-dff1-41f1-8a79-2fdceccce31b"
+          },
+          "m_Fact": "!bp_99e0edd8acbb5454f821460592dc768b"
+        },
+        {
+          "$type": "efeff58c12d74f00a73213c7f3750543, GainMythicLevel",
+          "name": "$GainMythicLevel$fdbb25d7-683d-45b5-b938-a6f79f6368ac",
+          "Levels": 1
+        }
+      ]
+    }
+}
