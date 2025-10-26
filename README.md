@@ -62,3 +62,6 @@ Changes Fatigue and Exhaustion to have no effect, and will no longer show in UI.
 
 **BugfixDLC**
 DLC 6 modified: Opening cutscene that shows portal has been removed due to sometimes bugging out. Sithud reborn cutscene has been changed to the victory cutscene.
+
+**KineticRod**
+Adds Kinetic Rod and Greater Kinetic Rod to the game, which can be bought at the tavern in act 3 and the Storyteller in act 4, respectively.
