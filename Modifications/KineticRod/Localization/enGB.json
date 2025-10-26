@@ -1,0 +1,24 @@
+{
+    "strings": [
+        {
+            "Key": "KineticRod-Localization-MetamagicRodKinetic-LocalizedName",
+            "Value": "Kineticist Rod"
+        },
+        {
+            "Key": "KineticRod-Localization-MetamagicRodKinetic-LocalizedDescription",
+            "Value": "This rod increases the {g|Encyclopedia:Damage}damage{/g} dealt by the kineticist's simple energy blasts by {g|Encyclopedia:Dice}2d6{/g} and by kineticist simple physical blasts by 2d6+2. Composite energy blasts instead deal an additional 4d6 damage, while composite physical blasts deal an additional 4d6+4 damage."
+        },
+        {
+            "Key": "KineticRod-Localization-MetamagicRodGreaterKinetic-LocalizedName",
+            "Value": "Greater Kineticist Rod"
+        },
+        {
+            "Key": "KineticRod-Localization-MetamagicRodGreaterKinetic-LocalizedDescription",
+            "Value": "This rod increases the {g|Encyclopedia:Damage}damage{/g} dealt by the kineticist's simple energy blasts by {g|Encyclopedia:Dice}3d6{/g} and by kineticist simple physical blasts by 3d6+3. Composite energy blasts instead deal an additional 6d6 damage, while composite physical blasts deal an additional 6d6+6 damage."
+        },
+        {
+            "Key": "KineticRod-Localization-ModItem-FlavorText",
+            "Value": "Modded Item - Added by KineticRod."
+        }
+    ]
+}

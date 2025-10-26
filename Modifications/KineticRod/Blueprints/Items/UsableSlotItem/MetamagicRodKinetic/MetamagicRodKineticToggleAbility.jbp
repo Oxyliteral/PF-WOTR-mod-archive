@@ -1,0 +1,59 @@
+{
+  "AssetId": "8649f331d9bf4f5c8b3a596c360b5ede",
+  "Data": {
+    "$type": "f7bbaafe7a7cbad4693107291c548dcc, BlueprintActivatableAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "KineticRod-Localization-MetamagicRodKinetic-LocalizedName",
+      "m_OwnerString": "8649f331d9bf4f5c8b3a596c360b5ede",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "KineticRod-Localization-MetamagicRodKinetic-LocalizedDescription",
+      "m_OwnerString": "8649f331d9bf4f5c8b3a596c360b5ede",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "c6bca7e174fb1d746b76dd33912fbbc2",
+      "fileid": 21300000
+    },
+    "m_Buff": "!bp_56b8c7ac252843eebe2ac70bfe355311",
+    "Group": "MetamagicRod",
+    "WeightInGroup": 1,
+    "IsOnByDefault": true,
+    "DeactivateIfCombatEnded": false,
+    "DeactivateAfterFirstRound": false,
+    "DeactivateImmediately": true,
+    "IsTargeted": false,
+    "DeactivateIfOwnerDisabled": false,
+    "DeactivateIfOwnerUnconscious": false,
+    "OnlyInCombat": false,
+    "DoNotTurnOffOnRest": false,
+    "ActionBarAutoFillIgnored": false,
+    "IsRuntimeOnly": false,
+    "HiddenInUI": false,
+    "ActivationType": "Immediately",
+    "m_ActivateWithUnitCommand": "Free",
+    "m_ActivateOnUnitAction": "Attack",
+    "m_SelectTargetAbility": null,
+    "ResourceAssetIds": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

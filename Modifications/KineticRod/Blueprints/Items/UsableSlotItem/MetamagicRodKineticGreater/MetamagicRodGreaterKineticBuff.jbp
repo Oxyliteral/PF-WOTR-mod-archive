@@ -1,0 +1,88 @@
+{
+  "AssetId": "47324e4080eb47c3a5698592f3982d06",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "m_Flags": 0,
+        "name": "$AddFeatureIfHasFact$3c670bfc-75d2-46ec-93e3-a0d9efbad2a1",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_93efbde2764b5504e98e6824cab3d27c",
+        "m_Feature": "!bp_93efbde2764b5504e98e6824cab3d27c",
+        "Not": false
+      },
+      {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "m_Flags": 0,
+        "name": "$AddFeatureIfHasFact$3c670bfc-75d2-46ec-93e3-a0d9efbad2a1",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_93efbde2764b5504e98e6824cab3d27c",
+        "m_Feature": "!bp_93efbde2764b5504e98e6824cab3d27c",
+        "Not": false
+      },
+      {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "m_Flags": 0,
+        "name": "$AddFeatureIfHasFact$3c670bfc-75d2-46ec-93e3-a0d9efbad2a1",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_93efbde2764b5504e98e6824cab3d27c",
+        "m_Feature": "!bp_93efbde2764b5504e98e6824cab3d27c",
+        "Not": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "KineticRod-Localization-MetamagicRodGreaterKinetic-LocalizedName",
+      "m_OwnerString": "47324e4080eb47c3a5698592f3982d06",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "KineticRod-Localization-MetamagicRodGreaterKinetic-LocalizedDescription",
+      "m_OwnerString": "47324e4080eb47c3a5698592f3982d06",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "c6bca7e174fb1d746b76dd33912fbbc2",
+      "fileid": 21300000
+    },
+    "IsClassFeature": false,
+    "m_Flags": "StayOnDeath",
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

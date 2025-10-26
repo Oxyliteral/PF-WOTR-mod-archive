@@ -1,0 +1,22 @@
+{
+    "BundlesLayout":
+    {
+        "m_Guids": [],
+        "m_Bundles": []
+    },
+    "BundleDependencies": 
+    {
+        "m_List": []
+    },
+    "BlueprintPatches":
+	[
+	    {
+	    "Guid": "f8c18fa37dd0fab4cad5a9d8b427ed18",
+	    "Filename": "Items\\Vendors\\Chapter3\\Tavern_Chapter3VendorTable.patch"
+	    },
+	    {
+	    "Guid": "9edaf8d72271d2e45a5f9a4c7362cc1a",
+	    "Filename": "Items\\Vendors\\Chapter4\\StorytellerVendorTable_Ch4.patch"
+	    }
+	]
+}

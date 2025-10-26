@@ -1,0 +1,21 @@
+{
+	"_#ArrayMergeSettings": "Merge",
+    "Components": [
+      {
+        "$type": "9a9cba603f85c634690eb67962fdf792, LootItemsPackFixed",
+        "m_Flags": 0,
+        "name": "$LootItemsPackFixed$9062f946-7346-4666-9bec-553bc50353b3",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Item": {
+          "m_Type": "Other",
+          "m_Item": "!bp_da732ea5841e4bff8728fef8794cac23",
+          "m_Loot": null
+        },
+        "m_Count": 1
+      }
+    ]
+}
