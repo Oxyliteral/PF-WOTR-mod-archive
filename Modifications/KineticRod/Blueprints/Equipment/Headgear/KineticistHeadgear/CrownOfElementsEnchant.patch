@@ -1,0 +1,39 @@
+{
+    "Components": [
+      {
+        "$type": "01f56971790b338448973ff85009d309, AddUnitFeatureEquipment",
+        "m_Flags": 0,
+        "name": "$AddUnitFeatureEquipment$65513ce8-aab5-4767-9c1a-e44f363c0c87",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Feature": "!bp_c89182c66f5347b18f1f3afde1d0692e"
+      },
+      {
+        "$type": "b67ba4ab98ca6ef42b016d0be90db08c, AddStatBonusEquipment",
+        "name": "$AddStatBonusEquipment$0d35377f-3f1b-451d-99b0-cce5c17fc8dc",
+        "m_Overrides": [],
+        "Descriptor": "Enhancement",
+        "Stat": "Charisma",
+        "Value": 6
+      },
+      {
+        "$type": "b67ba4ab98ca6ef42b016d0be90db08c, AddStatBonusEquipment",
+        "name": "$AddStatBonusEquipment$c077f2df-9ba0-4ba9-a886-71e72e18c67b",
+        "m_Overrides": [],
+        "Descriptor": "Enhancement",
+        "Stat": "Intelligence",
+        "Value": 6
+      },
+      {
+        "$type": "b67ba4ab98ca6ef42b016d0be90db08c, AddStatBonusEquipment",
+        "name": "$AddStatBonusEquipment$823ef3bf-77ca-402e-87c2-fcb8572e539e",
+        "m_Overrides": [],
+        "Descriptor": "Enhancement",
+        "Stat": "Wisdom",
+        "Value": 6
+      }
+    ]
+}

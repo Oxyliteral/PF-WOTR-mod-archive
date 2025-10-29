@@ -1,0 +1,96 @@
+{
+  "AssetId": "4d55e0e8584b4870a41b71e4ab0a8812",
+  "Data": {
+    "$type": "df78945bb9f434e40b897758499cb714, BlueprintAnswer",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "ParentAsset": "2f5b7e0b76d3c5a42a431e1e33a8db09",
+    "MythicRequirement": "None",
+    "AlignmentRequirement": "None",
+    "Text": {
+      "m_Key": "KineticRod-Localization-StoryTeller_ShopInit_Answer",
+      "m_OwnerString": "4d55e0e8584b4870a41b71e4ab0a8812",
+      "m_OwnerPropertyPath": "Text",
+      "m_JsonPath": null,
+      "Shared": null
+    },
+    "NextCue": {
+      "Cues": [],
+      "Strategy": "First"
+    },
+    "ShowOnce": true,
+    "ShowOnceCurrentDialog": false,
+    "ShowCheck": {
+      "Type": "Unknown",
+      "DC": 0
+    },
+    "Experience": "NoExperience",
+    "DebugMode": false,
+    "CharacterSelection": {
+      "SelectionType": "Clear",
+      "ComparisonStats": []
+    },
+    "ShowConditions": {
+      "Operation": "And",
+      "Conditions": [
+        {
+          "$type": "ea981728db8a5f84888ecba390671a05, EtudeStatus",
+          "name": "$EtudeStatus$da2db9b4-f75a-44c1-b2e9-df40734c0eac",
+          "Not": false,
+          "m_Etude": "!bp_5b01aa690202e584888dfc600a4aac0a",
+          "NotStarted": false,
+          "Started": false,
+          "Playing": true,
+          "CompletionInProgress": false,
+          "Completed": false
+        }
+      ]
+    },
+    "SelectConditions": {
+      "Operation": "And",
+      "Conditions": []
+    },
+    "RequireValidCue": false,
+    "AddToHistory": true,
+    "OnSelect": {
+      "Actions": [
+		{
+		  "$type": "6fa8c37d53264cfc9f73ce7f3004f492, AddItemsToCollection",
+		  "name": "$AddItemsToCollection$12605241-b5dd-45f5-a567-b5374029bb15",
+		  "ItemsCollection": {
+			"$type": "424c082e5648c164ebd1000e96ef8e10, SharedVendorTable",
+			"name": "$SharedVendorTable$ce46c690-4cd6-43ba-ae6e-44b03c53bbfb",
+			"m_SharedVendor": "!bp_9edaf8d72271d2e45a5f9a4c7362cc1a"
+		  },
+		  "UseBlueprintUnitLoot": true,
+		  "Loot": [],
+		  "m_BlueprintLoot": "!bp_b9102319e9b947ccbe453d0b73e68dde",
+		  "Silent": true,
+		  "Identify": false
+		},
+        {
+          "$type": "63f4331f2b9d14b4cbdca44a66b1bd43, StartTrade",
+          "name": "$StartTrade$d69bf970-1369-457e-ade2-822e431b5319",
+          "Vendor": {
+            "$type": "437e91be60e97ae4cbd13c47f2b2de18, DialogCurrentSpeaker",
+            "name": "$DialogCurrentSpeaker$671523cc-b95a-4d9d-bd25-b073e360739d"
+          }
+        }
+      ]
+    },
+    "FakeChecks": [],
+    "AlignmentShift": {
+      "Direction": "TrueNeutral",
+      "Value": 0,
+      "Description": {
+        "m_Key": "",
+        "m_OwnerString": "",
+        "m_OwnerPropertyPath": "",
+        "m_JsonPath": "",
+        "Shared": null
+      }
+    }
+  }
+}

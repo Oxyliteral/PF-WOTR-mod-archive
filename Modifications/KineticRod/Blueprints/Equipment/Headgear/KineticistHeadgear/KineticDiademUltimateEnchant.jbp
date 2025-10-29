@@ -1,0 +1,56 @@
+{
+  "AssetId": "a07cbfc9319b4facaa4b277ddda61bf3",
+  "Data": {
+    "$type": "ea93079875e0ccc4d89c634346321dd6, BlueprintEquipmentEnchantment",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "01f56971790b338448973ff85009d309, AddUnitFeatureEquipment",
+        "m_Flags": 0,
+        "name": "$AddUnitFeatureEquipment$c80839be-a163-49fd-b4fc-c427f2e787a6",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Feature": "!bp_662e8710a85e4ee1ac966861cdb25a57"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_EnchantName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Prefix": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Suffix": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_EnchantmentCost": 0,
+    "m_IdentifyDC": 16
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

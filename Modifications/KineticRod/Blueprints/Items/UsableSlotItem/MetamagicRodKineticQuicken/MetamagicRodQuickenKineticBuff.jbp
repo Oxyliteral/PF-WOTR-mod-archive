@@ -1,0 +1,130 @@
+{
+  "AssetId": "ecebfa2f27e843a1b31863d08eccb3c6",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$AddKineticistBurnModifier$27c9de1e-4b48-4179-b83f-60ffa5c6c0b5",
+      "$AutoMetamagic$7db33bfc-77e5-4a7b-8eba-43740e03b9fb"
+    ],
+    "Components": [
+	  {
+        "$type": "5da1f31202294865a5e27b003f050e95, AddKineticistBurnModifier",
+        "name": "$AddKineticistBurnModifier$27c9de1e-4b48-4179-b83f-60ffa5c6c0b5",
+        "m_Overrides": [],
+        "BurnType": "Blast",
+        "Value": -1,
+        "RemoveBuffOnAcceptBurn": false,
+        "UseContextValue": false,
+        "BurnValue": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "m_AppliableTo": []
+      },
+      {
+        "$type": "b51a712035f3d98459e516a34fda37bf, AutoMetamagic",
+        "m_Flags": 0,
+        "name": "$AutoMetamagic$7db33bfc-77e5-4a7b-8eba-43740e03b9fb",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "m_AllowedAbilities": "KineticistBlast",
+        "Metamagic": "Quicken",
+        "Abilities": [
+          "!bp_0ab1552e2ebdacf44bb7b20f5393366d",
+          "!bp_45eb571be891c4c4581b6fcddda72bcd",
+          "!bp_16617b8c20688e4438a803effeeee8a6",
+          "!bp_d29186edb20be6449b23660b39435398",
+          "!bp_4e2e066dd4dc8de4d8281ed5b3f4acb6",
+          "!bp_403bcf42f08ca70498432cf62abee434",
+          "!bp_8c25f52fce5113a4491229fd1265fc3c",
+          "!bp_6276881783962284ea93298c1fe54c48",
+          "!bp_e2610c88664e07343b4f3fb6336f210c",
+          "!bp_9afdc3eeca49c594aa7bf00e8e9803ac",
+          "!bp_b93e1f0540a4fa3478a6b47ae3816f32",
+          "!bp_3baf01649a92ae640927b0f633db7c11",
+          "!bp_b813ceb82d97eed4486ddd86d3f7771b",
+          "!bp_e53f34fb268a7964caf1566afb82dadd",
+          "!bp_83d5873f306ac954cad95b6aeeeb2d8c",
+          "!bp_7980e876b0749fc47ac49b9552e259c1",
+          "!bp_d663a8d40be1e57478f34d6477a67270",
+          "!bp_77cb8c607b263194894a929c8ac59708",
+          "!bp_8d351d2c4af133a41b103aa25f0c38cc",
+          "!bp_b066761047bbe0348a3a0b2f1debbd34",
+          "!bp_15278f2a9a5eaa441a261ec033b60b57",
+          "!bp_1c35c032bb452014090d05130fa653df",
+          "!bp_f2b96598bcfba72469852b6480bf1397",
+          "!bp_9b8ea70f14970f946ad6c26694062a3f",
+          "!bp_2f391179f4cdd574b9093e62497a6d7e",
+          "!bp_b66add7c13a8398488ed3e915ade09d3",
+          "!bp_c6334b1a104de294dba47ce56c74640f",
+          "!bp_c9262ac06266bc64990ee98e528d8eed",
+          "!bp_54c7ff613923d304bb39e163959435fb",
+          "!bp_c74117665610ddb4cb8a525c2ec93039",
+          "!bp_4f6847c9d896da946b6d86bd513e76a9",
+          "!bp_d386e82ad6ef52a4ab5251bc2dc6d93f",
+          "!bp_879b666ce3247ed4b8aa379d5946c38e",
+          "!bp_2312fb9314d9a99489ec32f8be57a87c",
+          "!bp_cf09fb24e432a5c49a1bd9add89699ee",
+          "!bp_ba2113cfed0c2c14b93c20e7625a4c74"
+        ],
+        "Descriptor": {
+          "m_IntValue": 0
+        },
+        "Once": false,
+        "MaxSpellLevel": 0,
+        "School": "None",
+        "CheckSpellbook": false,
+        "m_Spellbook": null,
+        "m_IncludeClasses": null,
+        "m_ExcludeClasses": null
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "KineticRod-Localization-MetamagicRodQuickenKinetic-LocalizedName",
+      "m_OwnerString": "ecebfa2f27e843a1b31863d08eccb3c6",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "KineticRod-Localization-MetamagicRodQuickenKinetic-LocalizedDescription",
+      "m_OwnerString": "ecebfa2f27e843a1b31863d08eccb3c6",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "c6bca7e174fb1d746b76dd33912fbbc2",
+      "fileid": 21300000
+    },
+    "IsClassFeature": false,
+    "m_Flags": "StayOnDeath",
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

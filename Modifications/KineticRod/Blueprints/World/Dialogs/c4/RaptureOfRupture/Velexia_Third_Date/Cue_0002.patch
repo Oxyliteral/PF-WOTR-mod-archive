@@ -1,0 +1,19 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "OnShow": {
+      "Actions": [
+	    {
+          "$type": "1f1c883ef085c5c4b877eeb4c5da318c, AddItemToPlayer",
+          "name": "$AddItemToPlayer$f462af43-f396-4e9f-a94f-a307ac0087ac",
+          "m_ItemToGive": "!bp_fc075b1df9014376b7ee6edee62d0497",
+          "Silent": false,
+          "Quantity": 1,
+          "Identify": false,
+          "Equip": false,
+          "EquipOn": null,
+          "PreferredWeaponSet": 0,
+          "ErrorIfDidNotEquip": true
+        }
+	  ]
+    }
+}

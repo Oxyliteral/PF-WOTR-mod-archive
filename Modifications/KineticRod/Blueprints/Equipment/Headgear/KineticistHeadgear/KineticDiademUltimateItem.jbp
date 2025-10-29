@@ -1,0 +1,80 @@
+{
+  "AssetId": "9422a82d0d8b4d8284ccf03c46a5ec73",
+  "Data": {
+    "$type": "adc63a0dcf487a44c9c7e8ccb4b5fb33, BlueprintItemEquipmentHead",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_DisplayNameText": {
+      "m_Key": "KineticRod-Localization-KineticDiademUltimate-LocalizedName",
+      "m_OwnerString": "9422a82d0d8b4d8284ccf03c46a5ec73",
+      "m_OwnerPropertyPath": "m_DisplayNameText",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionText": {
+      "m_Key": "KineticRod-Localization-KineticDiademUltimate-LocalizedDescription",
+      "m_OwnerString": "9422a82d0d8b4d8284ccf03c46a5ec73",
+      "m_OwnerPropertyPath": "m_DescriptionText",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_FlavorText": {
+      "m_Key": "KineticRod-Localization-ModItem-FlavorText",
+      "m_OwnerString": "9422a82d0d8b4d8284ccf03c46a5ec73",
+      "m_OwnerPropertyPath": "m_FlavorText",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_NonIdentifiedNameText": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_NonIdentifiedDescriptionText": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "a320d5b13cd2cbb46b38f1fe9c5d0b5d",
+      "fileid": 21300000
+    },
+    "m_Cost": 500000,
+    "m_Weight": 1.0,
+    "m_IsNotable": false,
+    "m_ForceStackable": false,
+    "m_Destructible": true,
+    "m_ShardItem": "!bp_e6820e62423d4c81a2ba20d236251b67",
+    "m_MiscellaneousType": "None",
+    "m_InventoryPutSound": "CommonPut",
+    "m_InventoryTakeSound": "CommonTake",
+    "NeedSkinningForCollect": false,
+    "TrashLootTypes": [],
+    "CR": 24,
+    "m_Ability": null,
+    "m_ActivatableAbility": null,
+    "SpendCharges": true,
+    "Charges": 1,
+    "RestoreChargesOnRest": false,
+    "CasterLevel": 1,
+    "SpellLevel": 1,
+    "DC": 11,
+    "IsNonRemovable": false,
+    "m_EquipmentEntity": "!bp_d1a95e8ae35a4de399d76ff579a58bfe",
+    "m_EquipmentEntityAlternatives": [],
+    "m_ForcedRampColorPresetIndex": 0,
+    "m_Enchantments": [
+      "!bp_a07cbfc9319b4facaa4b277ddda61bf3"
+    ],
+    "m_InventoryEquipSound": "CommonPut"
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

@@ -17,8 +17,40 @@
             "Value": "This rod increases the {g|Encyclopedia:Damage}damage{/g} dealt by the kineticist's simple energy blasts by {g|Encyclopedia:Dice}3d6{/g} and by kineticist simple physical blasts by 3d6+3. Composite energy blasts instead deal an additional 6d6 damage, while composite physical blasts deal an additional 6d6+6 damage."
         },
         {
+            "Key": "KineticRod-Localization-MetamagicRodUltimateKinetic-LocalizedName",
+            "Value": "Ultimate Kineticist Rod"
+        },
+        {
+            "Key": "KineticRod-Localization-MetamagicRodUltimateKinetic-LocalizedDescription",
+            "Value": "This rod increases the {g|Encyclopedia:Damage}damage{/g} dealt by the kineticist's simple energy blasts by {g|Encyclopedia:Dice}5d6{/g} and by kineticist simple physical blasts by 5d6+5. Composite energy blasts instead deal an additional 10d6 damage, while composite physical blasts deal an additional 10d6+10 damage."
+        },
+        {
+            "Key": "KineticRod-Localization-MetamagicRodQuickenKinetic-LocalizedName",
+            "Value": "Channeler's Rod"
+        },
+        {
+            "Key": "KineticRod-Localization-MetamagicRodQuickenKinetic-LocalizedDescription",
+            "Value": "This rod grants its wielder the ability to make kinetic blasts they cast quickened as though using the {g|FeatureQuickenSpell}Quicken Spell{/g} feat, and reduces the burn cost of the Kineticist's kinetic blasts by one burn point. However, the Kineticist cannot gather energy while this rod is in use."
+        },
+        {
+            "Key": "KineticRod-Localization-KineticDiademUltimate-LocalizedName",
+            "Value": "Ultimate Kinetic Diadem"
+        },
+        {
+            "Key": "KineticRod-Localization-KineticDiademUltimate-LocalizedDescription",
+            "Value": "This diadem increases the {g|Encyclopedia:Damage}damage{/g} dealt by the kineticist's simple energy blasts by {g|Encyclopedia:Dice}5d6{/g} and by kineticist simple physical blasts by 5d6+5. Composite energy blasts instead deal an additional 10d6 damage, while composite physical blasts deal an additional 10d6+10 damage."
+        },
+        {
             "Key": "KineticRod-Localization-ModItem-FlavorText",
-            "Value": "Modded Item - Added by KineticRod."
+            "Value": "(Modded Item - Added by KineticRod.)"
+        },
+        {
+            "Key": "KineticRod-Localization-StoryTeller_ShopOpen_Answer",
+            "Value": "I need to replenish my supplies. (Opens Modded Shop - Added by KineticRod.)"
+        },
+	{
+            "Key": "KineticRod-Localization-StoryTeller_ShopInit_Answer",
+            "Value": "I need to replenish my supplies. (Adds items to and opens Modded Shop - Added by KineticRod.)"
         }
     ]
 }

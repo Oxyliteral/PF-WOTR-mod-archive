@@ -1,0 +1,18 @@
+{
+	"_#ArrayMergeSettings": "Merge",
+    "Components": [
+      {
+        "$type": "2e45a1126181445ebca3ecb09b9272c6, UnitUpgraderComponent",
+        "m_Flags": 0,
+        "name": "$UnitUpgraderComponent$81cacc3e-d93f-4bc2-aefc-7905c7f30429",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Upgraders": [
+          "!bp_75b82aa8df714b55bb53bce338e0ef2e"
+        ]
+      }
+    ],
+}

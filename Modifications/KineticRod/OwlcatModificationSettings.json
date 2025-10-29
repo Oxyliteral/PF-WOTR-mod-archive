@@ -17,6 +17,22 @@
 	    {
 	    "Guid": "9edaf8d72271d2e45a5f9a4c7362cc1a",
 	    "Filename": "Items\\Vendors\\Chapter4\\StorytellerVendorTable_Ch4.patch"
+	    },
+	    {
+	    "Guid": "f2a124393cc75bf4e9adaa45092b0e88",
+	    "Filename": "World\\Dialogs\\c4\\RaptureOfRupture\\Velexia_Third_Date\\Cue_0002.patch"
+	    },
+	    {
+	    "Guid": "2f5b7e0b76d3c5a42a431e1e33a8db09",
+	    "Filename": "World\\Dialogs\\NPC_Common\\StoryTeller_MainDialogue\\AnswersList_0004.patch"
+	    },
+	    {
+	    "Guid": "95c84a60d369b2b43abc0fe13f076d8a",
+	    "Filename": "Units\\Monsters\\Demon Gibrileth\\Alushinyrra\\SarzaksisSlaverTrader_Gibrileth.patch"
+	    },
+	    {
+	    "Guid": "b7ce92c6589960d459148b4c1df5348f",
+	    "Filename": "Equipment\\Headgear\\KineticistHeadgear\\CrownOfElementsEnchant.patch"
 	    }
 	]
 }

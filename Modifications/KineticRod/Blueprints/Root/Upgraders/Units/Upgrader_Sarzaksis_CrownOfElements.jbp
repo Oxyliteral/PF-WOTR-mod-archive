@@ -1,0 +1,24 @@
+{
+  "AssetId": "75b82aa8df714b55bb53bce338e0ef2e",
+  "Data": {
+    "$type": "5a89120da87448eaa36bf6295597a570, BlueprintUnitUpgrader",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "Actions": {
+      "Actions": [
+        {
+          "$type": "af25a2d60e0c4fab980df67c71eeb9b7, FixItemInInventory",
+          "name": "$FixItemInInventory$fe868620-76e7-4501-a09b-52fa0e35bddc",
+          "m_ToRemove": null,
+          "m_ToAdd": "!bp_0e7082c3e45af414e8516afbe58f0f6e",
+          "m_TryEquip": false
+        }
+      ]
+    }
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

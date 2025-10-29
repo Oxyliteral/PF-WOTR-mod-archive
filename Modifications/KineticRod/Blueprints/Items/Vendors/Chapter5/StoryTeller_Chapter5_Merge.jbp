@@ -1,0 +1,41 @@
+{
+  "AssetId": "b9102319e9b947ccbe453d0b73e68dde",
+  "Data": {
+    "$type": "ccc43623dd9341449b5d07be1dabaa23, BlueprintSharedVendorTable",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$LootItemsPackFixed$30513250-e96d-4608-ba31-134dd7656dae",
+	  "$LootItemsPackFixed$ae80ffea-aad5-456c-b04b-5ec37e8813b1"
+    ],
+    "Components": [
+      {
+        "$type": "9a9cba603f85c634690eb67962fdf792, LootItemsPackFixed",
+        "name": "$LootItemsPackFixed$30513250-e96d-4608-ba31-134dd7656dae",
+        "m_Overrides": [],
+        "m_Item": {
+          "m_Type": "Item",
+          "m_Item": "!bp_80734d8e974d48da8b22d5fe51fb0631",
+          "m_Loot": null
+        },
+        "m_Count": 1
+      },
+	  {
+        "$type": "9a9cba603f85c634690eb67962fdf792, LootItemsPackFixed",
+        "name": "$LootItemsPackFixed$ae80ffea-aad5-456c-b04b-5ec37e8813b1",
+        "m_Overrides": [],
+        "m_Item": {
+          "m_Type": "Item",
+          "m_Item": "!bp_9422a82d0d8b4d8284ccf03c46a5ec73",
+          "m_Loot": null
+        },
+        "m_Count": 1
+      }
+    ],
+    "Comment": "",
+    "m_Dummy": {},
+    "AutoIdentifyAllItems": true
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

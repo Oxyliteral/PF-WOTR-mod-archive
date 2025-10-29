@@ -4,14 +4,14 @@
       {
         "$type": "9a9cba603f85c634690eb67962fdf792, LootItemsPackFixed",
         "m_Flags": 0,
-        "name": "$LootItemsPackFixed$5610dbf3-a3ba-440a-8373-0221a44ec70c",
+        "name": "$LootItemsPackFixed$241afe21-de72-4509-b5cc-1de8cb37e40a",
         "PrototypeLink": {
           "guid": "",
           "name": ""
         },
         "m_Overrides": [],
         "m_Item": {
-          "m_Type": "Other",
+          "m_Type": "Item",
           "m_Item": "!bp_118b1e93b0a6427296f1d21a2ab7b6c1",
           "m_Loot": null
         },
