@@ -7,7 +7,7 @@ For mods to work, there MUST be "Assemblies" and "Bundles" folder inside the sam
 Please remember to update OwlcatModificationManagerSettings.json for mods to be recognized!
 
 **Alignment:**
-All Mythic Paths are any Alignment.
+All Mythic Paths are any Alignment. Doesn't exactly work due to 'fix alignment' mythic quests.
 
 **Legend:**
 Modifies Legend EXP table to be 2 to 1 compared to normal exp table.
@@ -65,3 +65,6 @@ DLC 6 modified: Opening cutscene that shows portal has been removed due to somet
 
 **KineticRod**
 Adds Kinetic Rod and Greater Kinetic Rod to the game, which can be bought at the tavern in act 3 and the Storyteller in act 4, respectively.
+Adds CrownOfElements (from Kingmaker), obtainable by defeating Sarzaksys in Act 4 (Fleshmarkets).
+Adds Quicken Kinetic Metamagic rod, obtainable by defeating Vellexia (obtained in post-combat dialogue). Due to how swift actions not interacting very well with gather power, I made them incompatible, so you can only have one group active at a time. To compensate, the rod gives -1 burn.
+Added Ultimate Kinetic Rod and Ultimate Kinetic Diadem to the game, buyable from the Storyteller in act 5. (Dialog and vendor have been updated to accomdate this change).
