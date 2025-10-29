@@ -71,3 +71,10 @@ Adds CrownOfElements (from Kingmaker), obtainable by defeating Sarzaksys in Act 
 Adds Quicken Kinetic Metamagic rod, obtainable by defeating Vellexia (obtained in post-combat dialogue). Due to swift actions not interacting very well with gather power, I made them incompatible, so you can only have one group active at a time. To compensate, the rod gives -1 burn.
 
 Adds Ultimate Kinetic Rod and Ultimate Kinetic Diadem to the game, buyable from the Storyteller in act 5. (Dialog and vendor have been updated to accomdate this change).
+
+Modding Notes:
+Components with the same name generally are unable to stack. For example, copy pasting a component three times means the game only recognizes it once.
+
+For adding items to units, use Upgraders, as those are runtime-friendly. Otherwise, it only changes when the unit is first created.
+
+Vendor shared tables are added through Etudes when the chapter is updated.
