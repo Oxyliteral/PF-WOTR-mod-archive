@@ -12,6 +12,9 @@ All Mythic Paths are any Alignment. Doesn't exactly work due to 'fix alignment' 
 **Legend:**
 Modifies Legend EXP table to be 2 to 1 compared to normal exp table.
 
+**MythicReworked:**
+Rework of the below mod. Major changes include: All requirements for Mythic Paths have been removed. All Mythic Paths are now available for selection on Drezen rooftop, with features moved to accomodate the 5 remaining Mythic Levels.
+
 **Mythic:**
 Allows faster and more front-loaded mythic levels, also allows Legend to be picked on Drezen rooftop.
 **2 Mythic Levels in prologue** (upon gaining light power and upon defeating maze boss).
@@ -71,6 +74,15 @@ Adds CrownOfElements (from Kingmaker), obtainable by defeating Sarzaksys in Act 
 Adds Quicken Kinetic Metamagic rod, obtainable by defeating Vellexia (obtained in post-combat dialogue). Due to swift actions not interacting very well with gather power, I made them incompatible, so you can only have one group active at a time. To compensate, the rod gives -1 burn.
 
 Adds Ultimate Kinetic Rod and Ultimate Kinetic Diadem to the game, buyable from the Storyteller in act 5. (Dialog and vendor have been updated to accomdate this change).
+
+**Skilled Azata**
+Changes Azata's 'All Skilled' feature to make all skills class skills, and gives an additional +6 bonus for having a rank (original is +3, so 1 rank = 10 total).
+
+**MonkAlignment**
+Simple mod that removes monk alignment requirement.
+
+**BiggerGoldenDragon**
+Changes Golden Dragon size modifier from 0.16 to 1.00. Because why not?
 
 Modding Notes:
 Components with the same name generally are unable to stack. For example, copy pasting a component three times means the game only recognizes it once.
