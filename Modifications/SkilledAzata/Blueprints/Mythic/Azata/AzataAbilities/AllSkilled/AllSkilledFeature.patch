@@ -1,0 +1,128 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+	  {
+        "$type": "72d91921550b1454bbeea4e2591a8876, BuffAllSkillsBonusRankDependent",
+        "m_Flags": 0,
+        "name": "$BuffAllSkillsBonusRankDependent$eb5351b7-8885-4cb4-acc5-7e6996cf393c",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Descriptor": "UntypedStackable",
+        "Value": 6,
+		"MinimalRank": 1
+      },
+      {
+        "$type": "7a5d4700264de3b4aacf2514df964a14, AddClassSkill",
+        "name": "$AddClassSkill$6a82da73-9b15-4edc-bd54-de94bfdbd338",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Skill": "SkillMobility"
+      },
+      {
+        "$type": "7a5d4700264de3b4aacf2514df964a14, AddClassSkill",
+        "name": "$AddClassSkill$5cec087c-557b-4f96-9f26-875bd4b46ea7",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Skill": "SkillAthletics"
+      },
+      {
+        "$type": "7a5d4700264de3b4aacf2514df964a14, AddClassSkill",
+        "name": "$AddClassSkill$8f68c2d9-55a0-450f-81c1-76b72bf999a3",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Skill": "SkillPersuasion"
+      },
+      {
+        "$type": "7a5d4700264de3b4aacf2514df964a14, AddClassSkill",
+        "name": "$AddClassSkill$87771dc1-07b5-4846-92e3-ff7602c29f33",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Skill": "SkillThievery"
+      },
+      {
+        "$type": "7a5d4700264de3b4aacf2514df964a14, AddClassSkill",
+        "name": "$AddClassSkill$171331d0-c218-45a6-9a89-f8e64f91bf9b",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Skill": "SkillLoreNature"
+      },
+      {
+        "$type": "7a5d4700264de3b4aacf2514df964a14, AddClassSkill",
+        "name": "$AddClassSkill$b6fd9f3c-9f5e-4bb3-9786-0b1f74510fe4",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Skill": "SkillPerception"
+      },
+      {
+        "$type": "7a5d4700264de3b4aacf2514df964a14, AddClassSkill",
+        "name": "$AddClassSkill$f4d29b70-ba61-415d-bd4f-b2fd98c99ae6",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Skill": "SkillStealth"
+      },
+      {
+        "$type": "7a5d4700264de3b4aacf2514df964a14, AddClassSkill",
+        "name": "$AddClassSkill$5cec785f-68a1-42ca-b352-bb4ef8ed5bda",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Skill": "SkillUseMagicDevice"
+      },
+      {
+        "$type": "7a5d4700264de3b4aacf2514df964a14, AddClassSkill",
+        "name": "$AddClassSkill$0ba71575-ca10-4f2a-b343-74925bf94580",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Skill": "SkillLoreReligion"
+      },
+      {
+        "$type": "7a5d4700264de3b4aacf2514df964a14, AddClassSkill",
+        "name": "$AddClassSkill$0708eaa9-31bd-4a37-a72f-15dd29929e3c",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Skill": "SkillKnowledgeWorld"
+      },
+      {
+        "$type": "7a5d4700264de3b4aacf2514df964a14, AddClassSkill",
+        "name": "$AddClassSkill$9919729f-cc43-40a0-a3b9-c2dad41bf982",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Skill": "SkillKnowledgeArcana"
+      }
+    ]
+}
