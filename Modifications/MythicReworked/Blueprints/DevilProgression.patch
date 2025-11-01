@@ -1,0 +1,59 @@
+{
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_4997c2c310c64702a72f6a2df03b960b",
+		  "!bp_24e78475f0a243e1a810452d14d0a1bd",
+		  "!bp_5451c9b8530f4b71aadcaea42bd54ab7",
+		  "!bp_dca35b2802a24bc9be1e8c5ff860719f",
+		  "!bp_85243106886a0384380d5b5f04046909",
+		  "!bp_442e199eca0ab2f4dbdcf7147fa2c399",
+		  "!bp_f05095ffce834514c8713e3a37dd2169",
+		  "!bp_b6798b29d36982b4786a32dfd81a914f",
+		  "!bp_4d65cfe93295ab84e9df54ce83714020",
+		  "!bp_5a0458707f694408ab1b97c4788c559b",
+		  "!bp_77759cac4da9f2144b831cb8ad8a32de",
+		  "!bp_4be1f1dd5c2a13b40be53f7281771ee2"
+        ]
+      },
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_5886fe604f5e4206a92983dd23b179b8",
+		  "!bp_ba0e5a900b775be4a99702f1ed08914d"
+        ]
+      },
+      {
+        "Level": 3,
+        "m_Features": [
+		  "!bp_14df25e93791453bbf7394735f1dcc1a",
+		  "!bp_9ee0f6745f555484299b0a1563b99d81"
+        ]
+      },
+      {
+        "Level": 4,
+        "m_Features": [
+		  "!bp_604cad4e5f6c4a169e424eb0a360ddc1",
+		  "!bp_ba0e5a900b775be4a99702f1ed08914d",
+		  "!bp_9ee0f6745f555484299b0a1563b99d81"
+        ]
+      },
+      {
+        "Level": 5,
+        "m_Features": [
+          "!bp_fe9f26b07940471c92021a523b909824",
+		  "!bp_88b76ee4fd464bbd9e92fa0e1e78df7d",
+		  "!bp_ba0e5a900b775be4a99702f1ed08914d",
+		  "!bp_9ee0f6745f555484299b0a1563b99d81"
+        ]
+      },
+      {
+        "Level": 6,
+        "m_Features": [
+		  "!bp_ba0e5a900b775be4a99702f1ed08914d",
+		  "!bp_9ee0f6745f555484299b0a1563b99d81"
+        ]
+      }
+    ]
+}

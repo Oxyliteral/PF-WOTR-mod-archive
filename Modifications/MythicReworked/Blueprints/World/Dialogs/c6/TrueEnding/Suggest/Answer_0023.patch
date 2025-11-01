@@ -1,0 +1,14 @@
+{
+    "ShowConditions": {
+      "Operation": "And",
+      "Conditions": [
+        {
+          "$type": "a091db175cce8f94f815f98e9e353a84, AnswerSelected",
+          "name": "$AnswerSelected$10d53560-bba3-47b0-a616-2a8dc8e387d0",
+          "Not": false,
+          "m_Answer": "!bp_e22ba2dc3f89fde49ba902641893bb2c",
+          "CurrentDialog": false
+        }
+      ]
+    }
+}

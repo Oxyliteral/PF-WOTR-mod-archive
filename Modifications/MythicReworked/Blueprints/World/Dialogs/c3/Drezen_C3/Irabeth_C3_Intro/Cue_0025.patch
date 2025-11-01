@@ -1,0 +1,84 @@
+{
+    "Conditions": {
+      "Operation": "Or",
+      "Conditions": [
+        {
+          "$type": "ea981728db8a5f84888ecba390671a05, EtudeStatus",
+          "name": "$EtudeStatus$be8ca2a1-1103-4582-bc55-def50d0b6c08",
+          "Not": false,
+          "m_Etude": "!bp_3a040afde22f4b742a2f607354ab17e7",
+          "NotStarted": false,
+          "Started": false,
+          "Playing": true,
+          "CompletionInProgress": false,
+          "Completed": false
+        },
+        {
+          "$type": "ea981728db8a5f84888ecba390671a05, EtudeStatus",
+          "name": "$EtudeStatus$cc96f19a-40a5-4937-b124-401d0dd9a046",
+          "Not": false,
+          "m_Etude": "!bp_9f486a9c0c9abfc4a952bb22e88a7e96",
+          "NotStarted": false,
+          "Started": false,
+          "Playing": true,
+          "CompletionInProgress": false,
+          "Completed": false
+        },
+        {
+          "$type": "ea981728db8a5f84888ecba390671a05, EtudeStatus",
+          "name": "$EtudeStatus$9202496d-90e5-40ea-93d5-038815576288",
+          "Not": false,
+          "m_Etude": "!bp_d3b47e973d65c6c46af1cce815d1f6ce",
+          "NotStarted": false,
+          "Started": false,
+          "Playing": true,
+          "CompletionInProgress": false,
+          "Completed": false
+        },
+        {
+          "$type": "ea981728db8a5f84888ecba390671a05, EtudeStatus",
+          "name": "$EtudeStatus$455dad09-02c6-43cc-8d38-db4e4ee9bbb3",
+          "Not": false,
+          "m_Etude": "!bp_c6165efcd5571c442ae38d7c0601f2df",
+          "NotStarted": false,
+          "Started": false,
+          "Playing": true,
+          "CompletionInProgress": false,
+          "Completed": false
+        },
+		{
+          "$type": "ea981728db8a5f84888ecba390671a05, EtudeStatus",
+          "name": "$EtudeStatus$ded10aa6-7fe2-4aa5-a1f6-1a1ff0c0093c",
+          "Not": false,
+          "m_Etude": "!bp_9b193d30c89a20b409fd3dda9bd109bf",
+          "NotStarted": false,
+          "Started": false,
+          "Playing": true,
+          "CompletionInProgress": false,
+          "Completed": false
+        },
+		{
+          "$type": "ea981728db8a5f84888ecba390671a05, EtudeStatus",
+          "name": "$EtudeStatus$ae99c56f-6327-423f-bee2-332b8a36764d",
+          "Not": false,
+          "m_Etude": "!bp_a1db9daf676b36f4d99c6a788a0fe1af",
+          "NotStarted": false,
+          "Started": false,
+          "Playing": true,
+          "CompletionInProgress": false,
+          "Completed": false
+        },
+		{
+          "$type": "ea981728db8a5f84888ecba390671a05, EtudeStatus",
+          "name": "$EtudeStatus$5d9302fc-17e3-4e70-b158-dc05b1b24d64",
+          "Not": false,
+          "m_Etude": "!bp_439e63fed37f52048887d98f99255e40",
+          "NotStarted": false,
+          "Started": false,
+          "Playing": true,
+          "CompletionInProgress": false,
+          "Completed": false
+        }
+      ]
+    }
+}

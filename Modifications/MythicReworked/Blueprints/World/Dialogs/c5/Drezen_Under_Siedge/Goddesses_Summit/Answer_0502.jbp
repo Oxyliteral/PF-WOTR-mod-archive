@@ -1,0 +1,75 @@
+{
+  "AssetId": "c667af2e7e5b4d18890289841a631c7b",
+  "Data": {
+    "$type": "df78945bb9f434e40b897758499cb714, BlueprintAnswer",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "РЕИНФОРС ЛЕГЕНДЫ\n\nигрок выбрал легенду в УИ\nВнимание - выбор легенлды в УИ не меняет автоматически текущий мифик на легенду, как в остальных случаях\n(игрок еще может профейлиться стать легендой и остаться текущим мификом)",
+    "ParentAsset": "7f18896facfbd614c96e2e4ea2d6c0d5",
+    "MythicRequirement": "PlayerIsLegend",
+    "AlignmentRequirement": "None",
+    "Text": {
+      "m_Key": "Mythic-Localization-GoddessSummit-LegendReject",
+      "m_OwnerString": "c667af2e7e5b4d18890289841a631c7b",
+      "m_OwnerPropertyPath": "Text",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "NextCue": {
+      "Cues": [
+		"!bp_d7831cee89a646cd937a8129f03ec040"
+      ],
+      "Strategy": "First"
+    },
+    "ShowOnce": false,
+    "ShowOnceCurrentDialog": false,
+    "ShowCheck": {
+      "Type": "Unknown",
+      "DC": 0
+    },
+    "Experience": "NoExperience",
+    "DebugMode": false,
+    "CharacterSelection": {
+      "SelectionType": "Clear",
+      "ComparisonStats": []
+    },
+    "ShowConditions": {
+      "Operation": "And",
+      "Conditions": []
+    },
+    "SelectConditions": {
+      "Operation": "And",
+      "Conditions": []
+    },
+    "RequireValidCue": false,
+    "AddToHistory": true,
+    "OnSelect": {
+      "Actions": [
+        {
+          "$type": "f4ef63ec9a4741d4bae871a91255f89a, IncrementFlagValue",
+          "name": "$IncrementFlagValue$912e7646-dfe0-4c3e-ae24-bd2420f7cea3",
+          "m_Flag": "!bp_deb42e87a7a54194bac798a8f98f8beb",
+          "Value": {
+            "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+            "name": "$IntConstant$fe2f1633-bf31-4898-af0b-bea5ba3b456b",
+            "Value": 1
+          },
+          "UnlockIfNot": true
+        }
+      ]
+    },
+    "FakeChecks": [],
+    "AlignmentShift": {
+      "Direction": "TrueNeutral",
+      "Value": 0,
+      "Description": {
+        "m_Key": "",
+        "m_OwnerString": "",
+        "m_OwnerPropertyPath": "",
+        "m_JsonPath": "",
+        "Shared": null
+      }
+    }
+  }
+}

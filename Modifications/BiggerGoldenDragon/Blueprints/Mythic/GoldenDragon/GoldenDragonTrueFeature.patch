@@ -1,0 +1,14 @@
+{
+    "Components": [
+      {
+        "$type": "d9811aad3cb11294ab3c7893a7a42f56, AddUnitScale",
+        "name": "$AddUnitScale$a596d8a0-59d2-4331-9713-bc32735388f3",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "ScaleIncreaseCoefficient": 1.00
+      }
+    ]
+}

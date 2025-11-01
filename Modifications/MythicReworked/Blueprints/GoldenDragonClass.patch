@@ -1,0 +1,72 @@
+{
+    "Components": [
+      {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteClassLevel$dfd0320d-bfd3-4956-96b5-f4a21897835f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_CharacterClass": "!bp_6ae0c8c63a804d3a9af48ab7cc0b704e",
+        "Level": 2,
+        "Not": false
+      },
+      {
+        "$type": "36227fa23f553c147b651e99ff3cc485, MythicClassArtComponent",
+        "m_Flags": 0,
+        "name": "$MythicClassArtComponent$1180d1e4-4dab-48f7-bd23-8a48b0004896",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_SelectorPortrait": {
+          "AssetId": "80e1098e108b6eb4fabffd7ca4c4c493"
+        },
+        "m_SelectorPortraitLineart": {
+          "AssetId": "80e1098e108b6eb4fabffd7ca4c4c493"
+        },
+        "m_CommonFrame": {
+          "AssetId": "95c858e23e777d94bafc62f4de7f0b79"
+        },
+        "m_CommonFrameDecor": {
+          "AssetId": "8223060c4d04e134caa291cfeb006ba7"
+        },
+        "m_PortraitFrame": {
+          "AssetId": "b7683f0df780bf24989c118306ac71e8"
+        },
+        "m_SelectorFrame": {
+          "AssetId": "2e078257d544e3c428c9b7cf76718126"
+        },
+        "m_AbilityFrame": {
+          "AssetId": "ca9d93487ef1c104982b10d922414cf9"
+        },
+        "m_Emblem": {
+          "AssetId": "6c876080fc262e04bab37946a5544532"
+        },
+        "m_Portraits": [
+          "!bp_f46452f808764744b642bb66a680312e"
+        ]
+      },
+      {
+        "$type": "5436494344c2496e9f8e835d990897ab, PrerequisiteMainCharacter",
+        "m_Flags": 0,
+        "name": "$PrerequisiteMainCharacter$039a7fb7-a157-4ac3-9227-d671f0160eb7",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "IsFeatureSelectionWhiteList": false,
+        "Companion": false
+      }
+    ]
+}

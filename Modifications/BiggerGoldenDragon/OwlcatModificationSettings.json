@@ -1,0 +1,18 @@
+{
+    "BundlesLayout":
+    {
+        "m_Guids": [],
+        "m_Bundles": []
+    },
+    "BundleDependencies": 
+    {
+        "m_List": []
+    },
+    "BlueprintPatches":
+	[
+	    {
+	    "Guid": "0add6934a75a42668f3123a89c69698e",
+	    "Filename": "Mythic\\GoldenDragon\\GoldenDragonTrueFeature.patch"
+	    }
+	]
+}

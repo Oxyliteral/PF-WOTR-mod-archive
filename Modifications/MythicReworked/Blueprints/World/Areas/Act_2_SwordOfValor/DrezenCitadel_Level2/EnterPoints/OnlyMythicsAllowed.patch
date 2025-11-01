@@ -1,0 +1,369 @@
+{
+    "m_Actions": [
+      {
+        "Condition": {
+          "$type": "1d392c8d9feed78408fbcb18f9468fb9, OrAndLogic",
+          "name": "$OrAndLogic$ae1af90b-748c-4142-8197-263173a15c0f",
+          "Not": false,
+          "Comment": "",
+          "ConditionsChecker": {
+            "Operation": "Or",
+            "Conditions": [
+              {
+                "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                "name": "$UnitClass$457464e2-5f48-4bcb-bb87-02948eb7a448",
+                "Not": false,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$413030b3-0164-4f3c-bfbc-cab034d8d728"
+                },
+                "m_Class": "!bp_15a85e67b7d69554cab9ed5830d0268e",
+                "MinLevel": {
+                  "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                  "name": "$IntConstant$8dc8228d-fb99-4767-827f-f9e0a04049bd",
+                  "Value": 1
+                }
+              },
+              {
+                "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                "name": "$UnitClass$f3587dfb-9469-4ea4-b10e-91c6662b2075",
+                "Not": false,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$7fde6cdf-b822-4161-98fa-4e781aa69e62"
+                },
+                "m_Class": "!bp_a5a9fe8f663d701488bd1db8ea40484e",
+                "MinLevel": {
+                  "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                  "name": "$IntConstant$8f222019-3589-4fb3-a7ad-160d4c055d33",
+                  "Value": 1
+                }
+              },
+              {
+                "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                "name": "$UnitClass$17502da3-a2fd-41d7-8bbb-714c1329f7b2",
+                "Not": false,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$67f82f2a-62eb-4dd3-b627-6df349a1d9d0"
+                },
+                "m_Class": "!bp_8e19495ea576a8641964102d177e34b7",
+                "MinLevel": {
+                  "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                  "name": "$IntConstant$4ba41c3d-9425-495f-831e-3161153f34a3",
+                  "Value": 1
+                }
+              },
+              {
+                "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                "name": "$UnitClass$5f4edd15-4e85-45a3-8c86-79091d247986",
+                "Not": false,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$18381811-dd41-480c-8d31-14ee57ab526d"
+                },
+                "m_Class": "!bp_9a3b2c63afa79744cbca46bea0da9a16",
+                "MinLevel": {
+                  "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                  "name": "$IntConstant$eef2a192-0e55-41c9-8529-576e9a10c5c7",
+                  "Value": 1
+                }
+              },
+              {
+                "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                "name": "$UnitClass$aa7fb194-aead-4f1b-8614-71e84e2d2429",
+                "Not": false,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$70e8121b-392e-4b4b-a637-01c393a5daac"
+                },
+                "m_Class": "!bp_8df873a8c6e48294abdb78c45834aa0a",
+                "MinLevel": {
+                  "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                  "name": "$IntConstant$bebb93c3-47fc-4f4b-87de-225275d9dd7f",
+                  "Value": 1
+                }
+              },
+              {
+                "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                "name": "$UnitClass$f42d9825-6ac3-4edf-a71c-5cc1cdebcdba",
+                "Not": false,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$db2ae817-6ed9-4963-9b06-1026570fe58c"
+                },
+                "m_Class": "!bp_5d501618a28bdc24c80007a5c937dcb7",
+                "MinLevel": {
+                  "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                  "name": "$IntConstant$9ada6d49-ea8b-4572-9404-2461db128169",
+                  "Value": 1
+                }
+              },
+			  {
+                "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                "name": "$UnitClass$e7fbe74c-2c14-4240-b6db-9e67aa3c70e2",
+                "Not": false,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$db2ae817-6ed9-4963-9b06-1026570fe58c"
+                },
+                "m_Class": "!bp_3d420403f3e7340499931324640efe96",
+                "MinLevel": {
+                  "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                  "name": "$IntConstant$9ada6d49-ea8b-4572-9404-2461db128169",
+                  "Value": 1
+                }
+              },
+			  {
+                "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                "name": "$UnitClass$3bd1be3b-2521-4f6f-be60-da9f3a717ef6",
+                "Not": false,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$db2ae817-6ed9-4963-9b06-1026570fe58c"
+                },
+                "m_Class": "!bp_5295b8e13c2303f4c88bdb3d7760a757",
+                "MinLevel": {
+                  "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                  "name": "$IntConstant$9ada6d49-ea8b-4572-9404-2461db128169",
+                  "Value": 1
+                }
+              },
+			  {
+                "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                "name": "$UnitClass$0b651503-5546-4183-903f-8cbdd525c38a",
+                "Not": false,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$db2ae817-6ed9-4963-9b06-1026570fe58c"
+                },
+                "m_Class": "!bp_211f49705f478b3468db6daa802452a2",
+                "MinLevel": {
+                  "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                  "name": "$IntConstant$9ada6d49-ea8b-4572-9404-2461db128169",
+                  "Value": 1
+                }
+              },
+			  {
+                "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                "name": "$UnitClass$8d7b831a-eb2c-4bc9-abdf-0837535e4217",
+                "Not": false,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$db2ae817-6ed9-4963-9b06-1026570fe58c"
+                },
+                "m_Class": "!bp_daf1235b6217787499c14e4e32142523",
+                "MinLevel": {
+                  "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                  "name": "$IntConstant$9ada6d49-ea8b-4572-9404-2461db128169",
+                  "Value": 1
+                }
+              }
+            ]
+          }
+        },
+        "Actions": {
+          "Actions": [
+            {
+              "$type": "8072988edd00cce40bc433869828e6b3, TeleportParty",
+              "name": "$TeleportParty$c965de55-2e59-46c2-b73d-5d657bdbee9a",
+              "m_exitPositon": "!bp_62f59caa2542ebd4bb72634d343f58dd",
+              "AutoSaveMode": "BeforeExit",
+              "ForcePauseAfterTeleport": false,
+              "AfterTeleport": {
+                "Actions": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "Condition": {
+          "$type": "1d392c8d9feed78408fbcb18f9468fb9, OrAndLogic",
+          "name": "$OrAndLogic$30fbb5a4-3363-462e-971d-60159623610c",
+          "Not": true,
+          "Comment": "",
+          "ConditionsChecker": {
+            "Operation": "Or",
+            "Conditions": [
+              {
+                "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                "name": "$UnitClass$019d79a0-2185-4a13-833a-df262ed464cc",
+                "Not": false,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$20d1bb87-b01d-40de-84a5-9bfdec9c532a"
+                },
+                "m_Class": "!bp_15a85e67b7d69554cab9ed5830d0268e",
+                "MinLevel": {
+                  "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                  "name": "$IntConstant$98cfbbbf-6d91-4759-95c3-f4d3cc3aaf7e",
+                  "Value": 1
+                }
+              },
+              {
+                "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                "name": "$UnitClass$117bf268-a43f-4b03-b5bb-68316338b914",
+                "Not": false,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$7b906d70-74ce-4fbb-a4b3-ab39b5e1270c"
+                },
+                "m_Class": "!bp_a5a9fe8f663d701488bd1db8ea40484e",
+                "MinLevel": {
+                  "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                  "name": "$IntConstant$e81c22a7-80ba-4295-9c76-014b9e902ae7",
+                  "Value": 1
+                }
+              },
+              {
+                "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                "name": "$UnitClass$41fad01f-3ce9-423e-909f-ac2478f855a8",
+                "Not": false,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$04101810-7491-4d62-9f00-3c317346ba3a"
+                },
+                "m_Class": "!bp_8e19495ea576a8641964102d177e34b7",
+                "MinLevel": {
+                  "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                  "name": "$IntConstant$efad2bc0-fe82-49e6-b680-051114f2e92b",
+                  "Value": 1
+                }
+              },
+              {
+                "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                "name": "$UnitClass$849f1081-1ac8-41d6-b890-2e8d2a40f190",
+                "Not": false,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$ca88ecd5-1860-4554-b1c4-a7d675df5bef"
+                },
+                "m_Class": "!bp_9a3b2c63afa79744cbca46bea0da9a16",
+                "MinLevel": {
+                  "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                  "name": "$IntConstant$80e72758-d834-401f-859d-c16488d8e0fe",
+                  "Value": 1
+                }
+              },
+              {
+                "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                "name": "$UnitClass$b8071141-3e7f-4510-a49b-390dc5e49569",
+                "Not": false,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$a9c820fc-6e5d-4ede-8067-6f225f502db7"
+                },
+                "m_Class": "!bp_8df873a8c6e48294abdb78c45834aa0a",
+                "MinLevel": {
+                  "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                  "name": "$IntConstant$890417fc-2a12-442e-949c-8ac8461e607d",
+                  "Value": 1
+                }
+              },
+              {
+                "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                "name": "$UnitClass$5096973e-f701-4b87-b389-3b7813d4edaf",
+                "Not": false,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$f9050745-6d71-4a76-93b4-4ab9a7e67b56"
+                },
+                "m_Class": "!bp_5d501618a28bdc24c80007a5c937dcb7",
+                "MinLevel": {
+                  "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                  "name": "$IntConstant$9cc3d2af-2575-421e-87bb-f0632dd9b833",
+                  "Value": 1
+                }
+              },
+			  {
+                "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                "name": "$UnitClass$779b485a-1d6c-43fb-8a46-3c3f6bf56a43",
+                "Not": false,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$db2ae817-6ed9-4963-9b06-1026570fe58c"
+                },
+                "m_Class": "!bp_3d420403f3e7340499931324640efe96",
+                "MinLevel": {
+                  "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                  "name": "$IntConstant$9ada6d49-ea8b-4572-9404-2461db128169",
+                  "Value": 1
+                }
+			  },
+			  {
+                "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                "name": "$UnitClass$486557a0-756f-41a3-ad30-66ca876624cc",
+                "Not": false,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$db2ae817-6ed9-4963-9b06-1026570fe58c"
+                },
+                "m_Class": "!bp_5295b8e13c2303f4c88bdb3d7760a757",
+                "MinLevel": {
+                  "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                  "name": "$IntConstant$9ada6d49-ea8b-4572-9404-2461db128169",
+                  "Value": 1
+                }
+              },
+			  {
+                "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                "name": "$UnitClass$7e91b053-cbf6-49d1-b8d5-42058873ebab",
+                "Not": false,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$db2ae817-6ed9-4963-9b06-1026570fe58c"
+                },
+                "m_Class": "!bp_211f49705f478b3468db6daa802452a2",
+                "MinLevel": {
+                  "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                  "name": "$IntConstant$9ada6d49-ea8b-4572-9404-2461db128169",
+                  "Value": 1
+                }
+              },
+			  {
+                "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+                "name": "$UnitClass$e6158f7c-d568-45b8-ae96-b8a1f2b9a39d",
+                "Not": false,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$db2ae817-6ed9-4963-9b06-1026570fe58c"
+                },
+                "m_Class": "!bp_daf1235b6217787499c14e4e32142523",
+                "MinLevel": {
+                  "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+                  "name": "$IntConstant$9ada6d49-ea8b-4572-9404-2461db128169",
+                  "Value": 1
+                }
+              }
+            ]
+          }
+        },
+        "Actions": {
+          "Actions": [
+            {
+              "$type": "e164ef6758f918a4abcc3889472a2a3c, ShowBark",
+              "name": "$ShowBark$dd95c375-e274-4e74-9464-cc740ae97662",
+              "WhatToBark": {
+                "m_Key": "",
+                "m_OwnerString": "",
+                "m_OwnerPropertyPath": "",
+                "m_JsonPath": "",
+                "Shared": {
+                  "assetguid": "cd72ddd41faf61444861547093ab0bee",
+                  "stringkey": "1d748449-4ba3-4d9b-aac8-2e6c0a87fb95"
+                }
+              },
+              "WhatToBarkShared": null,
+              "BarkDurationByText": true,
+              "TargetUnit": {
+                "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                "name": "$PlayerCharacter$e39135f0-0031-4d31-bb26-7deb38dd5996"
+              },
+              "TargetMapObject": null
+            }
+          ]
+        }
+      }
+    ]
+}

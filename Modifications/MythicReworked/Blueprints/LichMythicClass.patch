@@ -1,0 +1,74 @@
+{
+    "Components": [
+      {
+        "$type": "5436494344c2496e9f8e835d990897ab, PrerequisiteMainCharacter",
+        "m_Flags": 0,
+        "name": "$PrerequisiteMainCharacter$7bae9018-d3e4-40ed-ad6b-c2c893cc7a0d",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "IsFeatureSelectionWhiteList": false,
+        "Companion": false
+      },
+      {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteClassLevel$ba69b58d-6fdb-4dc7-9ff8-716a65e4cf26",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "IsFeatureSelectionWhiteList": false,
+        "m_CharacterClass": "!bp_6ae0c8c63a804d3a9af48ab7cc0b704e",
+        "Level": 2,
+        "Not": false
+      },
+      {
+        "$type": "36227fa23f553c147b651e99ff3cc485, MythicClassArtComponent",
+        "m_Flags": 0,
+        "name": "$MythicClassArtComponent$18188868-6d21-48fc-9386-0a852ed7cc58",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_SelectorPortrait": {
+          "AssetId": "5e5dc690ae02de24aa396d8304b5695d"
+        },
+        "m_SelectorPortraitLineart": {
+          "AssetId": "5e5dc690ae02de24aa396d8304b5695d"
+        },
+        "m_CommonFrame": {
+          "AssetId": "bf6b6fbbb0095db488dcae1a7f4271d5"
+        },
+        "m_CommonFrameDecor": {
+          "AssetId": "bb64addcd42c3f1428bce0061454fabc"
+        },
+        "m_PortraitFrame": {
+          "AssetId": "0b49a79162416324f8d735fdba42ad11"
+        },
+        "m_SelectorFrame": {
+          "AssetId": "cd1e2e801458df5429bdcf95f73818a1"
+        },
+        "m_AbilityFrame": {
+          "AssetId": "ce44340b7ef53a143bbb530edcae66bf"
+        },
+        "m_Emblem": {
+          "AssetId": "5f9bfb0203aa7e34fa30f32c832aa85d"
+        },
+        "m_Portraits": [
+          "!bp_4d5b57fc8e7ecea48b2b7211f39ab58d",
+          "!bp_28328430bc914632b8559f869311ba4a"
+        ]
+      }
+    ]
+}

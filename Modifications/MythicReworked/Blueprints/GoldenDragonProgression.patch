@@ -1,0 +1,105 @@
+{
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_4997c2c310c64702a72f6a2df03b960b",
+		  "!bp_24e78475f0a243e1a810452d14d0a1bd",
+		  "!bp_5451c9b8530f4b71aadcaea42bd54ab7",
+		  "!bp_dca35b2802a24bc9be1e8c5ff860719f",
+		  "!bp_040bb87b39e4a7f4a8ddc011c5a50523",
+		  "!bp_21e3e9903481aec4b8eee1e9af17ce92",
+		  "!bp_65a0a742502de6b49b57cb719680cce5",
+		  "!bp_fc2120ccd6a528c46a48e3b8c93c2685",
+		  "!bp_6f86213d9732eec4abfb94561e2acc09",
+		  "!bp_b7524715218c4c14ea4f75881797fc6c",
+		  "!bp_8aebc472d039bc944b3a88c729f0e013",
+		  "!bp_a54cb7d8d86e6cc4099fc1c8c13bdecc",
+		  "!bp_379db58af291030438d2647975e8c16f",
+		  "!bp_9a160f24043d9534897f08350f938b99",
+		  "!bp_5677a9beca6350b41b6bd94ff1284997",
+		  "!bp_63bb12d87f99c4748a890956e5f6b4c7",
+		  "!bp_24e78475f0a243e1a810452d14d0a1bd",
+		  "!bp_a83dd922ad1441fd8224bd01a5948331",
+		  "!bp_67e436d11f5e4e40919bc84d425d8c37",
+		  "!bp_6a7f8ee85c7f42228c83bb9d2f1711f2",
+		  "!bp_a1208cc0d08b4cbdbec522bd26310cf8",
+		  "!bp_75e7c90fc70a4503b17909546298bd12",
+		  "!bp_888573ac51ec48ecabbeb32d380f68a9",
+		  "!bp_b0b5d090fb6e45acb818d6efedf7b872",
+		  "!bp_6929bac6c67ae194c8c8446e3d593953",
+		  "!bp_0add6934a75a42668f3123a89c69698e",
+		  "!bp_2ef40c078a0a4e829ce53781c4089299"
+        ]
+      },
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_5886fe604f5e4206a92983dd23b179b8",
+		  "!bp_ba0e5a900b775be4a99702f1ed08914d",
+		  
+          "!bp_f4af14e9f4408d44c830d891fee8f4a5",
+          "!bp_70c50d594489e684ab9950d383ba6d2c",
+          "!bp_4bbf3a79ccf4b8642a26d3ebe2ce96dc",
+          "!bp_e012a843adea3974696233fa91be2729",
+          "!bp_5fad208ba0909544fb5b2403253f07d3",
+          "!bp_9ed55389d2079714eab8495957964af2",
+          "!bp_d1f01519ffbe9144dac703b579a0c073",
+          "!bp_61f77b89f183ef749bf095209c1c81d3",
+          "!bp_4e0b919e4fbd85142bce959fae129d1a",
+          "!bp_a83dd922ad1441fd8224bd01a5948331",
+          "!bp_a21acdafc0169f5488a9bd3256e2e65b",
+          "!bp_a21acdafc0169f5488a9bd3256e2e65b",
+          "!bp_a21acdafc0169f5488a9bd3256e2e65b",
+          "!bp_47ba8b2cf42148e39564aa3f6a4f5f12",
+          "!bp_8872513a42974ab7bd30a5e2b4ce848d",
+          "!bp_9ac239ce333b420e8afd0672fb8b11fa",
+          "!bp_21c84e44bf6c4639a0db1a515c0ee3c0",
+          "!bp_27d78acec5ba4c089a87d658cf4594ca",
+          "!bp_30bc716021f041808be3b3d8610585eb",
+          "!bp_81fe63677a4f4f7fb64e9be7cf075948"
+        ]
+      },
+      {
+        "Level": 3,
+        "m_Features": [
+		  "!bp_14df25e93791453bbf7394735f1dcc1a",
+		  "!bp_9ee0f6745f555484299b0a1563b99d81",
+		  "!bp_a83dd922ad1441fd8224bd01a5948331",
+          "!bp_f1631a20b6f14e58924a32c81da95840",
+          "!bp_9b5c6f0ee76741468e830df34fb8bc0d",
+          "!bp_5db9024e9b4449308201f40e1943f810",
+          "!bp_d638bbb24421423d98c820307f158d60",
+          "!bp_48364e762f3645629efd79a9f1f3991b",
+          "!bp_4726c6a0f0dc4f02a2273f891119b506",
+          "!bp_24797a2af5954e9e943eec3b94341a99",
+          "!bp_81fe63677a4f4f7fb64e9be7cf075948",
+          "!bp_81fe63677a4f4f7fb64e9be7cf075948"
+        ]
+      },
+      {
+        "Level": 4,
+        "m_Features": [
+		  "!bp_604cad4e5f6c4a169e424eb0a360ddc1",
+		  "!bp_ba0e5a900b775be4a99702f1ed08914d",
+		  "!bp_9ee0f6745f555484299b0a1563b99d81"
+        ]
+      },
+      {
+        "Level": 5,
+        "m_Features": [
+          "!bp_fe9f26b07940471c92021a523b909824",
+		  "!bp_89095749e42748dc86fb741738e74b91",
+		  "!bp_ba0e5a900b775be4a99702f1ed08914d",
+		  "!bp_9ee0f6745f555484299b0a1563b99d81"
+        ]
+      },
+      {
+        "Level": 6,
+        "m_Features": [
+          "!bp_ba0e5a900b775be4a99702f1ed08914d",
+		  "!bp_9ee0f6745f555484299b0a1563b99d81"
+        ]
+      }
+    ]
+}
