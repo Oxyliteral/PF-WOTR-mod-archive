@@ -68,5 +68,6 @@
         "IsFeatureSelectionWhiteList": false,
         "Companion": false
       }
-    ]
+    ],
+	"m_IsHigherMythic": false
 }

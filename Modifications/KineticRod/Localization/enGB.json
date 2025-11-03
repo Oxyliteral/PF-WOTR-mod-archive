@@ -51,6 +51,22 @@
 	{
             "Key": "KineticRod-Localization-StoryTeller_ShopInit_Answer",
             "Value": "I need to replenish my supplies. (Adds items to and opens Modded Shop - Added by KineticRod.)"
+        },
+	{
+            "Key": "KineticRod-Localization-AmuletOfAgileFistsPlus6-LocalizedName",
+            "Value": "Amulet of Agile Fists +6"
+        },
+	{
+            "Key": "KineticRod-Localization-AmuletOfAgileFistsPlus6-LocalizedDescription",
+            "Value": "If the wearer has the Weapon Finesse {g|Encyclopedia:Feat}feat{/g}, this amulet allows her to apply her {g|Encyclopedia:Dexterity}Dexterity{/g} modifier (in place of her {g|Encyclopedia:Strength}Strength{/g} modifier) to {g|Encyclopedia:Damage}damage rolls{/g} with all {g|Encyclopedia:UnarmedAttack}unarmed{/g} and {g|Encyclopedia:NaturalAttack}natural weapon{/g} {g|Encyclopedia:Attack}attacks{/g}. It also grants a +6 enhancement {g|Encyclopedia:Bonus}bonus{/g} on attack and damage rolls with unarmed attacks and natural weapons."
+        },
+	{
+            "Key": "KineticRod-Localization-AmuletOfMightyFistsPlus6-LocalizedName",
+            "Value": "Amulet of Mighty Fists +6"
+        },
+	{
+            "Key": "KineticRod-Localization-AmuletOfMightyFistsPlus6-LocalizedDescription",
+            "Value": "This amulet grants its wearer a +6 enhancement {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Attack}attack{/g} and {g|Encyclopedia:Damage}damage rolls{/g} with {g|Encyclopedia:UnarmedAttack}unarmed attacks{/g} and {g|Encyclopedia:NaturalAttack}natural weapons{/g}."
         }
     ]
 }

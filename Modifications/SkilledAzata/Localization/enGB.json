@@ -2,7 +2,7 @@
     "strings": [
         {
             "Key": "7e3b0469-292e-40f5-a7a4-fe27dde88aff",
-            "Value": "The Azata gains a {g|Encyclopedia:Bonus}bonus{/g} equal to their mythic rank on all {g|Encyclopedia:Skills}skill{/g} {g|Encyclopedia:Check}checks{/g}. Whenever the Azata makes a skill check, they {g|Encyclopedia:Dice}roll{/g} the die twice and take the better result. They also become proficient with all types of weapons and armor, and all {g|Encyclopedia:Skills}skills{/g} become class skills. Additionally, having a rank in a class skill grants an additional +6 bonus."
+            "Value": "The Azata gains a {g|Encyclopedia:Bonus}bonus{/g} equal to their mythic rank on all {g|Encyclopedia:Skills}skill{/g} {g|Encyclopedia:Check}checks{/g}. Whenever the Azata makes a skill check, they {g|Encyclopedia:Dice}roll{/g} the die twice and take the better result. They also become proficient with all types of weapons and armor, and all {g|Encyclopedia:Skills}skills{/g} become class skills. Additionally, having a rank in a class skill grants an additional +6 Mythic bonus."
         }
     ]
 }

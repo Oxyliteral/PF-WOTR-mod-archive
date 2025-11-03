@@ -13,6 +13,18 @@
           "EquipOn": null,
           "PreferredWeaponSet": 0,
           "ErrorIfDidNotEquip": true
+        },
+		{
+          "$type": "1f1c883ef085c5c4b877eeb4c5da318c, AddItemToPlayer",
+          "name": "$AddItemToPlayer$83c60f61-cf20-4d10-904d-7dc65cb5e66a",
+          "m_ItemToGive": "!bp_296a9377c1f5ea44c82f023e5f54e4a3",
+          "Silent": false,
+          "Quantity": 1,
+          "Identify": false,
+          "Equip": false,
+          "EquipOn": null,
+          "PreferredWeaponSet": 0,
+          "ErrorIfDidNotEquip": true
         }
 	  ]
     }

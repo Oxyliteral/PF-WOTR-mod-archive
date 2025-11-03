@@ -16,6 +16,22 @@
           "m_Loot": null
         },
         "m_Count": 1
+      },
+	  {
+        "$type": "9a9cba603f85c634690eb67962fdf792, LootItemsPackFixed",
+        "m_Flags": 0,
+        "name": "$LootItemsPackFixed$e3702ea9-92e6-4bf6-8efe-9014276403c6",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Item": {
+          "m_Type": "Item",
+          "m_Item": "!bp_302fe578692531b4094bd87b8a296f09",
+          "m_Loot": null
+        },
+        "m_Count": 1
       }
     ]
 }
