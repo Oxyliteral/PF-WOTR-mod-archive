@@ -75,6 +75,8 @@ Adds Quicken Kinetic Metamagic rod, obtainable by defeating Vellexia (obtained i
 
 Adds Ultimate Kinetic Rod and Ultimate Kinetic Diadem to the game, buyable from the Storyteller in act 5. (Dialog and vendor have been updated to accomdate this change).
 
+Additionally adds fist amulets to tavern, vellexia dialogue, and +6 mighty/agile fist to storyteller in act 5.
+
 **Skilled Azata**
 Changes Azata's 'All Skilled' feature to make all skills class skills, and gives an additional +6 bonus for having a rank (original is +3, so 1 rank = 10 total).
 
@@ -90,3 +92,7 @@ Components with the same name generally are unable to stack. For example, copy p
 For adding items to units, use Upgraders, as those are runtime-friendly. Otherwise, it only changes when the unit is first created.
 
 Vendor shared tables are added through Etudes when the chapter is updated.
+
+Mythic levels don't interact well. Game is hardcoded to check for the first two levels as a Mythic Hero, and for the third level to be anything that is not a Mythic Hero.
+
+"IsHigherMythic" will remove anything beyond the first two levels.
