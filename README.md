@@ -78,7 +78,7 @@ Adds Ultimate Kinetic Rod and Ultimate Kinetic Diadem to the game, buyable from 
 Additionally adds fist amulets to tavern, vellexia dialogue, and +6 mighty/agile fist to storyteller in act 5.
 
 **Skilled Azata**
-Changes Azata's 'All Skilled' feature to make all skills class skills, and gives an additional +6 bonus for having a rank (original is +3, so 1 rank = 10 total).
+Changes Azata's 'All Skilled' feature to make all skills class skills, and gives an additional +6 bonus for having a rank (original is +3, so 1 rank = 10 total). This one was quite buggy for some reason. I had problems with it not adding the bonus and not re-rolling, so hopefully this new update works better.
 
 **MonkAlignment**
 Simple mod that removes monk alignment requirement.
