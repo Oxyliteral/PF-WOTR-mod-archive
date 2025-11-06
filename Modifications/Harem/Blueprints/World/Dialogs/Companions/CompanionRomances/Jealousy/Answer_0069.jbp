@@ -1,0 +1,64 @@
+{
+  "AssetId": "d700971c31a24d08b195a1592d969834",
+  "Data": {
+    "$type": "df78945bb9f434e40b897758499cb714, BlueprintAnswer",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "ParentAsset": "22d6e1bd9be82ed4793e46b9257d2290",
+    "MythicRequirement": "None",
+    "AlignmentRequirement": "None",
+    "Text": {
+      "m_Key": "Harem-Localization-Jealousy_Harem_Answer",
+      "m_OwnerString": "d700971c31a24d08b195a1592d969834",
+      "m_OwnerPropertyPath": "Text",
+      "m_JsonPath": null,
+      "Shared": null
+    },
+    "NextCue": {
+      "Cues": [],
+      "Strategy": "First"
+    },
+    "ShowOnce": false,
+    "ShowOnceCurrentDialog": false,
+    "ShowCheck": {
+      "Type": "Unknown",
+      "DC": 0
+    },
+    "Experience": "NoExperience",
+    "DebugMode": false,
+    "CharacterSelection": {
+      "SelectionType": "Clear",
+      "ComparisonStats": []
+    },
+    "ShowConditions": {
+      "Operation": "And",
+      "Conditions": []
+    },
+    "SelectConditions": {
+      "Operation": "And",
+      "Conditions": []
+    },
+    "RequireValidCue": false,
+    "AddToHistory": true,
+    "OnSelect": {
+      "Actions": []
+    },
+    "FakeChecks": [],
+    "AlignmentShift": {
+      "Direction": "TrueNeutral",
+      "Value": 0,
+      "Description": {
+        "m_Key": "",
+        "m_OwnerString": "",
+        "m_OwnerPropertyPath": "",
+        "m_JsonPath": "",
+        "Shared": null
+      }
+    }
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

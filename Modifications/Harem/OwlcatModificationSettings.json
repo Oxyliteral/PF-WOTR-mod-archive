@@ -1,0 +1,18 @@
+{
+    "BundlesLayout":
+    {
+        "m_Guids": [],
+        "m_Bundles": []
+    },
+    "BundleDependencies": 
+    {
+        "m_List": []
+    },
+    "BlueprintPatches":
+	[
+	    {
+	    "Guid": "22d6e1bd9be82ed4793e46b9257d2290",
+	    "Filename": "World\\Dialogs\\Companions\\CompanionRomances\\Jealousy\\AnswersList_0013.patch"
+	    }
+	]
+}
