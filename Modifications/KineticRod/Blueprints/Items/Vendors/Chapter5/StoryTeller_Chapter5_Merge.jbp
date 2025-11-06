@@ -6,6 +6,7 @@
     "m_Overrides": [
       "$LootItemsPackFixed$30513250-e96d-4608-ba31-134dd7656dae",
 	  "$LootItemsPackFixed$ae80ffea-aad5-456c-b04b-5ec37e8813b1",
+	  "$LootItemsPackFixed$cb91a22f-cd07-46ef-99d4-79204c8e9b78",
 	  "$LootItemsPackFixed$b3160392-9d75-4924-ae46-8c1085467460",
 	  "$LootItemsPackFixed$f83c34af-f5cf-4c5f-a7be-93954c71d221"
     ],
@@ -28,6 +29,17 @@
         "m_Item": {
           "m_Type": "Item",
           "m_Item": "!bp_9422a82d0d8b4d8284ccf03c46a5ec73",
+          "m_Loot": null
+        },
+        "m_Count": 1
+      },
+	  {
+        "$type": "9a9cba603f85c634690eb67962fdf792, LootItemsPackFixed",
+        "name": "$LootItemsPackFixed$cb91a22f-cd07-46ef-99d4-79204c8e9b78",
+        "m_Overrides": [],
+        "m_Item": {
+          "m_Type": "Item",
+          "m_Item": "!bp_83cfa7dd75a74db698d5a32e3e1baa74",
           "m_Loot": null
         },
         "m_Count": 1

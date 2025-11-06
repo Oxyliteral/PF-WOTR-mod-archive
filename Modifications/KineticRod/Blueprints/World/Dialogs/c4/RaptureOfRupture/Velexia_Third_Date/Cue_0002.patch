@@ -1,5 +1,5 @@
 {
-    "_#ArrayMergeSettings": "Merge",
+    "_#ArrayMergeSettings": "Union",
     "OnShow": {
       "Actions": [
 	    {

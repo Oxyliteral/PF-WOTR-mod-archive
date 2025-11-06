@@ -1,0 +1,63 @@
+{
+  "AssetId": "d9ac7d6c4534410cb1670a8849d837cb",
+  "Data": {
+    "$type": "ea93079875e0ccc4d89c634346321dd6, BlueprintEquipmentEnchantment",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$WeaponGroupDamageBonus$31fb1850-03e5-41fa-82b3-20cd43f71120",
+      "$EquipmentWeaponTypeEnhancement$53bdef7b-c58a-48c6-ac75-2780e1ba4a8c"
+    ],
+    "Components": [
+      {
+        "$type": "b727e1502a7570248a9134f2cff71f46, EquipmentWeaponTypeEnhancement",
+        "m_Flags": 0,
+        "name": "$EquipmentWeaponTypeEnhancement$53bdef7b-c58a-48c6-ac75-2780e1ba4a8c",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Enhancement": 6,
+        "IsStackable": false,
+        "AllNaturalAndUnarmed": true,
+        "Category": "UnarmedStrike"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_EnchantName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Prefix": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Suffix": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_EnchantmentCost": 0,
+    "m_IdentifyDC": 5,
+    "m_HiddenInUI": false
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

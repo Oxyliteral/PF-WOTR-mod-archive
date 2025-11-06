@@ -1,5 +1,5 @@
 {
-  "AssetId": "6648a0946f7145cdb0364473f95a5766",
+  "AssetId": "83cfa7dd75a74db698d5a32e3e1baa74",
   "Data": {
     "$type": "c5833a3cc6524c84ea8a97b09dff8b8f, BlueprintItemEquipmentNeck",
     "PrototypeLink": null,
@@ -7,22 +7,22 @@
     "Components": [],
     "Comment": "",
     "m_DisplayNameText": {
-      "m_Key": "KineticRod-Localization-AmuletOfMightyFistsPlus6-LocalizedName",
-      "m_OwnerString": "6648a0946f7145cdb0364473f95a5766",
+      "m_Key": "KineticRod-Localization-AmuletOfAgileFistsPlus8-LocalizedName",
+      "m_OwnerString": "83cfa7dd75a74db698d5a32e3e1baa74",
       "m_OwnerPropertyPath": "m_DisplayNameText",
       "m_JsonPath": null,
       "Shared": null
     },
     "m_DescriptionText": {
-      "m_Key": "KineticRod-Localization-AmuletOfMightyFistsPlus6-LocalizedDescription",
-      "m_OwnerString": "6648a0946f7145cdb0364473f95a5766",
+      "m_Key": "KineticRod-Localization-AmuletOfAgileFistsPlus8-LocalizedDescription",
+      "m_OwnerString": "83cfa7dd75a74db698d5a32e3e1baa74",
       "m_OwnerPropertyPath": "m_DescriptionText",
       "m_JsonPath": null,
       "Shared": null
     },
     "m_FlavorText": {
       "m_Key": "KineticRod-Localization-ModItem-FlavorText",
-      "m_OwnerString": "6648a0946f7145cdb0364473f95a5766",
+      "m_OwnerString": "83cfa7dd75a74db698d5a32e3e1baa74",
       "m_OwnerPropertyPath": "m_FlavorText",
       "m_JsonPath": "",
       "Shared": null
@@ -42,10 +42,10 @@
       "Shared": null
     },
     "m_Icon": {
-      "guid": "5f5bf4694a8e3564d943d779cf23be42",
+      "guid": "30174468d83a7b1479c392e1b3295b51",
       "fileid": 21300000
     },
-    "m_Cost": 175000,
+    "m_Cost": 1000000,
     "m_Weight": 0.1,
     "m_IsNotable": false,
     "m_Destructible": true,
@@ -55,7 +55,7 @@
     "m_InventoryTakeSound": "AmuletTake",
     "NeedSkinningForCollect": false,
     "TrashLootTypes": [],
-    "CR": 16,
+    "CR": 14,
     "m_Ability": null,
     "m_ActivatableAbility": null,
     "SpendCharges": true,
@@ -69,7 +69,8 @@
     "m_EquipmentEntityAlternatives": [],
     "m_ForcedRampColorPresetIndex": 0,
     "m_Enchantments": [
-      "!bp_d9ac7d6c4534410cb1670a8849d837cb"
+      "!bp_90316f5801dbe4748a66816a7c00380c",
+      "!bp_cd02126bcee24bcaa0cf78368135198d"
     ],
     "m_InventoryEquipSound": "AmuletPut"
   }

@@ -1,18 +1,16 @@
 {
-	"_#ArrayMergeSettings": "Merge",
-    "Components": [
-      {
-        "$type": "2e45a1126181445ebca3ecb09b9272c6, UnitUpgraderComponent",
-        "m_Flags": 0,
-        "name": "$UnitUpgraderComponent$81cacc3e-d93f-4bc2-aefc-7905c7f30429",
-        "PrototypeLink": {
-          "guid": "",
-          "name": ""
-        },
-        "m_Overrides": [],
-        "m_Upgraders": [
-          "!bp_75b82aa8df714b55bb53bce338e0ef2e"
-        ]
-      }
-    ],
+  "_#Entries": [
+	{
+      "_#ArrayMergeSettings": "Union",
+	  "Components": [
+		{
+          "$type": "2e45a1126181445ebca3ecb09b9272c6, UnitUpgraderComponent",
+          "name": "$UnitUpgraderComponent$8765e63f-6b18-437b-a83a-cc8a27cd6cca",
+          "m_Upgraders": [
+			"!bp_99a9ed0c56f84cd8ad947676190ef961"
+		  ]
+		}
+	  ]
+    }
+  ]
 }
