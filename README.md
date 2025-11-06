@@ -13,7 +13,9 @@ All Mythic Paths are any Alignment. Doesn't exactly work due to 'fix alignment' 
 Modifies Legend EXP table to be 2 to 1 compared to normal exp table.
 
 **MythicReworked:**
-Rework of the below mod. Major changes include: All requirements for Mythic Paths have been removed. All Mythic Paths are now available for selection on Drezen rooftop, with features moved to accomodate the 5 remaining Mythic Levels.
+Rework of the below mod. Most bugs fixed. Major changes include: All requirements for Mythic Paths have been removed. All Mythic Paths are now available for selection on Drezen rooftop, with features moved to accomodate the 5 remaining Mythic Levels.
+
+GrandFinal dialogue checks for 8 levels, so it has been changed to 5 levels.
 
 **Mythic:**
 Allows faster and more front-loaded mythic levels, also allows Legend to be picked on Drezen rooftop.
@@ -78,7 +80,7 @@ Adds Ultimate Kinetic Rod and Ultimate Kinetic Diadem to the game, buyable from 
 Additionally adds fist amulets to tavern, vellexia dialogue, and +6 mighty/agile fist to storyteller in act 5.
 
 **Skilled Azata**
-Changes Azata's 'All Skilled' feature to make all skills class skills, and gives an additional +6 bonus for having a rank (original is +3, so 1 rank = 10 total). This one was quite buggy for some reason. I had problems with it not adding the bonus and not re-rolling, so hopefully this new update works better.
+Changes Azata's 'All Skilled' feature to make all skills class skills, and gives an additional +6 bonus for having a rank (original is +3, so 1 rank = 10 total).
 
 **MonkAlignment**
 Simple mod that removes monk alignment requirement.
@@ -86,10 +88,25 @@ Simple mod that removes monk alignment requirement.
 **BiggerGoldenDragon**
 Changes Golden Dragon size modifier from 0.16 to 1.00. Because why not?
 
+**Harem**
+Adds dialog option to end Jealousy dialogue in act 5 without influencing any flags or etudes. Galfrey romance unchanged (still checks). A Dance of Masks will spawn all romanced companions into that one spot, but the actual chosen companion is based on internal component id.
+
 Modding Notes:
-Components with the same name generally are unable to stack. For example, copy pasting a component three times means the game only recognizes it once.
+Components with the same name generally are unable to stack. For example, copy pasting a component three times means the game only recognizes it once. This is only for components in the same file.
+
+Merge, Union, Concat, Replace.
+
+Merge merges the components themselves, not the array.
+
+Union adds components to the array without duplicate, Concat doesn't care about dupes.
+
+Replace replaces the array entirely.
 
 For adding items to units, use Upgraders, as those are runtime-friendly. Otherwise, it only changes when the unit is first created.
+
+Units drop only equipped items. Upgraders must have "TryEquip" set to true. There are some exceptions, such as Vellexia, who do not drop anything, and the Father of Worms in the Prison, who drops loot despite not having anything equipped.
+
+Stackable enhancement bonuses max out at +5. Unstackable enhancement bonuses have no limit.
 
 Vendor shared tables are added through Etudes when the chapter is updated.
 
