@@ -1,7 +1,34 @@
 {
     "Components": [
       {
-	    "m_Flags": 2
-	  }
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoClassLevel$91466900-3573-4aaf-a557-ddcf6ba86e2b",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "IsFeatureSelectionWhiteList": false,
+        "m_CharacterClass": "!bp_4cd1757a0eea7694ba5c933729a53920"
+      },
+      {
+        "$type": "532e804185719b942b52ed141aa10a21, PrerequisiteIsPet",
+        "m_Flags": 0,
+        "name": "$PrerequisiteIsPet$faefde05-3901-4dab-868e-c33269e78422",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "IsFeatureSelectionWhiteList": false,
+        "Not": true
+      }
     ]
 }
