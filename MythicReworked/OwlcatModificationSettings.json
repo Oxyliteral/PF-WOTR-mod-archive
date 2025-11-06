@@ -1,0 +1,218 @@
+{
+    "BundlesLayout":
+    {
+        "m_Guids": [],
+        "m_Bundles": []
+    },
+    "BundleDependencies": 
+    {
+        "m_List": []
+    },
+    "BlueprintPatches":
+	[
+	    {
+	    "Guid": "3d11e24ac8f52334dbcbf0e908bd5d28",
+	    "Filename": "GlobalMaps\\WorldWoundGM\\Points\\Location_MoltenScar.patch"
+	    },
+	    {
+	    "Guid": "061abcb88970af949a91de221315c277",
+	    "Filename": "GlobalMaps\\WorldWoundGM\\Points\\Location_AreeluLab.patch"
+	    },
+	    {
+	    "Guid": "38a3dc6744c5a434dbdd96c3451a389a",
+	    "Filename": "GlobalMaps\\WorldWoundGM\\Points\\Point_UndeadLair.patch"
+	    },
+	    {
+	    "Guid": "be8b94310fac0a746ace3af3978f3e9e",
+	    "Filename": "World\\Etudes\\Common\\WrathOfTheRighteous\\Companions\\SeelahCompanion\\SeelahInParty\\SeelahQ2\\Jewel_Shopping.patch"
+	    },
+	    {
+	    "Guid": "0b0a55eef0155674980a232f5a85515d",
+	    "Filename": "World\\Areas\\Act_2_SwordOfValor\\DrezenCitadel_Level2\\EnterPoints\\OnlyMythicsAllowed.patch"
+	    },
+	    {
+	    "Guid": "6b5d5de4dfc89414d9d138b3879ef080",
+	    "Filename": "World\\Dialogs\\c3\\Drezen_C3\\Irabeth_C3_Intro\\Cue_0025.patch"
+	    },
+	    {
+	    "Guid": "7f18896facfbd614c96e2e4ea2d6c0d5",
+	    "Filename": "World\\Dialogs\\c5\\Drezen_Under_Siedge\\Goddesses_Summit\\AnswersList_0136.patch"
+	    },
+	    {
+	    "Guid": "cfd0b7ddcd756cd47822a06106010060",
+	    "Filename": "World\\Dialogs\\c5\\AreeluLabAgain\\AreeluCell\\Answer_0012.patch"
+	    },
+	    {
+	    "Guid": "7faf68a4a3ef2394397fdd22efd80ffd",
+	    "Filename": "World\\Dialogs\\c5\\AreeluLabAgain\\AreeluCell\\Cue_0010.patch"
+	    },
+	    {
+	    "Guid": "cc728dc455ceef843bd3f3c53d8f132b",
+	    "Filename": "World\\Dialogs\\c5\\AreeluLabAgain\\AreeluCell\\Cue_0017.patch"
+	    },
+	    {
+	    "Guid": "6b0201b3cfb2b814cb14ee02a227b0be",
+	    "Filename": "World\\Dialogs\\c5\\AreeluLabAgain\\AreeluCell\\Cue_0018.patch"
+	    },
+	    {
+	    "Guid": "0d62a6d7816cf454bb14ea17a638117e",
+	    "Filename": "World\\Dialogs\\c5\\AreeluLabAgain\\AreeluCell\\Cue_0060.patch"
+	    },
+	    {
+	    "Guid": "7bfd5269e329c4d4c9c59a005c108200",
+	    "Filename": "World\\Dialogs\\c5\\AreeluLabAgain\\AreeluCell\\Cue_0061.patch"
+	    },
+	    {
+	    "Guid": "1dd04b5a707c9474faafd189354d944e",
+	    "Filename": "World\\Dialogs\\c6\\SecondFloor\\AreeluBurnTheWitch\\Cue_0055.patch"
+	    },
+	    {
+	    "Guid": "579edf941b2dddc40a60bbd84d0dc6d4",
+	    "Filename": "World\\Dialogs\\c6\\SecondFloor\\GrandFinal\\Answer_0008.patch"
+	    },
+	    {
+	    "Guid": "621ad04d865c59c4bb9e21cdc3c643b2",
+	    "Filename": "World\\Dialogs\\c6\\SecondFloor\\GrandFinal\\Answer_0009.patch"
+	    },
+	    {
+	    "Guid": "46655a5684c8d1043b92ebfa8c6dc2d1",
+	    "Filename": "World\\Dialogs\\c6\\SecondFloor\\GrandFinal\\Answer_0015.patch"
+	    },
+	    {
+	    "Guid": "bb30ee6ab838dac4cba66ca2da58d394",
+	    "Filename": "World\\Dialogs\\c6\\TrueEnding\\Suggest\\Answer_0023.patch"
+	    },
+	    {
+	    "Guid": "1ff5c0af5998bf547be1815a0415c8d8",
+	    "Filename": "World\\Cutscenes\\Prologue_Caves_1\\Angel_Mythic_Miracle\\Angel_Mythic_Miracle.patch"
+	    },
+	    {
+	    "Guid": "730a35d42e3130c4aa29047c5dbf7dae",
+	    "Filename": "World\\Cutscenes\\Prologue_Caves_1\\Angel_Mythic_Miracle\\CommandAction.patch"
+	    },
+	    {
+	    "Guid": "be851224c1d5aee4e93fea1c27031659",
+	    "Filename": "World\\Cutscenes\\Prologue_Labyrinth\\Attack_Savameleh_Angel\\Attack_Savameleh_Angel.patch"
+	    },
+	    {
+	    "Guid": "679bb513a9d99a64eac06420b7f99f00",
+	    "Filename": "World\\Cutscenes\\Prologue_Labyrinth\\Attack_Savameleh_Angel\\CommandAction 1.patch"
+	    },
+	    {
+	    "Guid": "d1493676e6151714aaa6560b7d2283b3",
+	    "Filename": "World\\Cutscenes\\Prologue_Labyrinth\\Attack_Savameleh_Demon\\Attack_Savameleh_Demon.patch"
+	    },
+	    {
+	    "Guid": "54692d3fc24906841ba0975931cc47d4",
+	    "Filename": "World\\Cutscenes\\Prologue_Labyrinth\\Attack_Savameleh_Demon\\CommandAction 1.patch"
+	    },
+	    {
+	    "Guid": "3d420403f3e7340499931324640efe96",
+	    "Filename": "LegendClass.patch"
+	    },
+	    {
+	    "Guid": "2d77316c72b9ed44f888ceefc2a131f6",
+	    "Filename": "Mythic\\BlueprintRoot.patch"
+	    },
+	    {
+	    "Guid": "af4ee0acb9114e544bf02f39027966b0",
+	    "Filename": "Mythic\\MythicStartingProgression.patch"
+	    },
+	    {
+	    "Guid": "daf1235b6217787499c14e4e32142523",
+	    "Filename": "GoldenDragonClass.patch"
+	    },
+	    {
+	    "Guid": "a6fbca43902c6194c947546e89af64bd",
+	    "Filename": "GoldenDragonProgression.patch"
+	    },
+	    {
+	    "Guid": "211f49705f478b3468db6daa802452a2",
+	    "Filename": "DevilMythicClass.patch"
+	    },
+	    {
+	    "Guid": "87bc9abf00b240a44bb344fea50ec9bc",
+	    "Filename": "DevilProgression.patch"
+	    },
+	    {
+	    "Guid": "15a85e67b7d69554cab9ed5830d0268e",
+	    "Filename": "AeonMythicClass.patch"
+	    },
+	    {
+	    "Guid": "34b9484b0d5ce9340ae51d2bf9518bbe",
+	    "Filename": "AeonProgression.patch"
+	    },
+	    {
+	    "Guid": "f2305312ccccc2a46a49ba834ff7a092",
+	    "Filename": "AeonSummonProgression.patch"
+	    },
+	    {
+	    "Guid": "a5a9fe8f663d701488bd1db8ea40484e",
+	    "Filename": "AngelMythicClass.patch"
+	    },
+	    {
+	    "Guid": "2f6fe889e91b6a645b055696c01e2f74",
+	    "Filename": "AngelProgression.patch"
+	    },
+	    {
+	    "Guid": "038090ec6b6a205418665f2489606534",
+	    "Filename": "AngelSummonProgression.patch"
+	    },
+	    {
+	    "Guid": "9a3b2c63afa79744cbca46bea0da9a16",
+	    "Filename": "AzataMythicClass.patch"
+	    },
+	    {
+	    "Guid": "9db53de4bf21b564ca1a90ff5bd16586",
+	    "Filename": "AzataProgression.patch"
+	    },
+	    {
+	    "Guid": "b172d5db251e3e0499671074ee15f7df",
+	    "Filename": "AzataSummonProgression.patch"
+	    },
+	    {
+	    "Guid": "8e19495ea576a8641964102d177e34b7",
+	    "Filename": "DemonMythicClass.patch"
+	    },
+	    {
+	    "Guid": "285fe49f7df8587468f676aa49362213",
+	    "Filename": "DemonProgression.patch"
+	    },
+	    {
+	    "Guid": "7764f540fbab8ab4c95492f1d8d4f04f",
+	    "Filename": "DemonSummonProgression.patch"
+	    },
+	    {
+	    "Guid": "5d501618a28bdc24c80007a5c937dcb7",
+	    "Filename": "LichMythicClass.patch"
+	    },
+	    {
+	    "Guid": "ccec4e01b85bf5d46a3c3717471ba639",
+	    "Filename": "LichProgression.patch"
+	    },
+	    {
+	    "Guid": "7de9c45b07635e2418dffc185bd2eff4",
+	    "Filename": "LichSummonProgression.patch"
+	    },
+	    {
+	    "Guid": "5295b8e13c2303f4c88bdb3d7760a757",
+	    "Filename": "SwarmThatWalksClass.patch"
+	    },
+	    {
+	    "Guid": "bf5f103ccdf69254abbad84fd371d5c9",
+	    "Filename": "SwarmThatWalksProgression.patch"
+	    },
+	    {
+	    "Guid": "8df873a8c6e48294abdb78c45834aa0a",
+	    "Filename": "TricksterMythicClass.patch"
+	    },
+	    {
+	    "Guid": "cc64789b0cc5df14b90da1ffee7bbeea",
+	    "Filename": "TricksterProgression.patch"
+	    },
+	    {
+	    "Guid": "7c6a97566f7125c4c839720200311c3c",
+	    "Filename": "TricksterSummonProgression.patch"
+	    }
+	]
+}

@@ -1,0 +1,72 @@
+{
+    "Components": [
+      {
+        "$type": "5436494344c2496e9f8e835d990897ab, PrerequisiteMainCharacter",
+        "m_Flags": 0,
+        "name": "$PrerequisiteMainCharacter$7d2c4495-b021-4b1e-a3b6-75574e6b55ed",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "Companion": false
+      },
+      {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteClassLevel$bb189d28-0751-45b6-910a-829715e9eb27",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_CharacterClass": "!bp_6ae0c8c63a804d3a9af48ab7cc0b704e",
+        "Level": 2,
+        "Not": false
+      },
+      {
+        "$type": "36227fa23f553c147b651e99ff3cc485, MythicClassArtComponent",
+        "m_Flags": 0,
+        "name": "$MythicClassArtComponent$87b9f5b4-ea5d-40bc-9998-f59e86dde780",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_SelectorPortrait": {
+          "AssetId": "75e1aac16ca67bf42876985d62eba6ba"
+        },
+        "m_SelectorPortraitLineart": {
+          "AssetId": "75e1aac16ca67bf42876985d62eba6ba"
+        },
+        "m_CommonFrame": {
+          "AssetId": "2fb0b1b82d7067240887a79becb83b6c"
+        },
+        "m_CommonFrameDecor": {
+          "AssetId": "5724adf21ba2f864394ece4bb5586d4f"
+        },
+        "m_PortraitFrame": {
+          "AssetId": "56a1a2229ce2d6242816b0d9951f012c"
+        },
+        "m_SelectorFrame": {
+          "AssetId": "2d774c7db9822f64d8017f10913fdd30"
+        },
+        "m_AbilityFrame": {
+          "AssetId": "5f90b7c0465859e448da7e10050d4294"
+        },
+        "m_Emblem": {
+          "AssetId": "e35bb783c3a3b3548a730589a5b5d495"
+        },
+        "m_Portraits": [
+          "!bp_411ab1bca0164130b6a241c427ff3391",
+          "!bp_5dd3a0ac8305460497399d3042032c6d"
+        ]
+      }
+    ]
+}

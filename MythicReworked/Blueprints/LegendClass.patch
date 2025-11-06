@@ -1,0 +1,81 @@
+{
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "c2e0b6aa0ffe4b52a461c7e623073090, HideClassIfPrerequisitesRequiredComponent",
+        "m_Flags": 0,
+        "name": "$HideClassIfPrerequisitesRequiredComponent$9edffe88-c2d1-41f5-9ddf-89d9b7945b31",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": []
+      },
+      {
+        "$type": "5436494344c2496e9f8e835d990897ab, PrerequisiteMainCharacter",
+        "m_Flags": 0,
+        "name": "$PrerequisiteMainCharacter$79773d51-193e-46ef-9abe-3bcbe189807f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "IsFeatureSelectionWhiteList": false,
+        "Companion": false
+      },
+	  {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteClassLevel$dfd0320d-bfd3-4956-96b5-f4a21897835f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_CharacterClass": "!bp_6ae0c8c63a804d3a9af48ab7cc0b704e",
+        "Level": 2,
+        "Not": false
+      },
+      {
+        "$type": "36227fa23f553c147b651e99ff3cc485, MythicClassArtComponent",
+        "m_Flags": 0,
+        "name": "$MythicClassArtComponent$eb5dd25c-a101-46e4-8eab-170250d159c4",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_SelectorPortrait": {
+          "AssetId": "94c71b08e7bd17f4f90c2ea4ced1dd74"
+        },
+        "m_SelectorPortraitLineart": {
+          "AssetId": "94c71b08e7bd17f4f90c2ea4ced1dd74"
+        },
+        "m_CommonFrame": {
+          "AssetId": "a4123bd43851a2841a8bf94027dc6119"
+        },
+        "m_CommonFrameDecor": null,
+        "m_PortraitFrame": {
+          "AssetId": "c68ebc998eaca4040ac22cc571cba49e"
+        },
+        "m_SelectorFrame": {
+          "AssetId": "6118c19e3b8ecb246bf04f5c8ef3a67e"
+        },
+        "m_AbilityFrame": {
+          "AssetId": "36b58d894cd90494589a889b2ad0aa6e"
+        },
+        "m_Emblem": null,
+        "m_Portraits": []
+      }
+    ],
+    "m_SignatureAbilities": [
+      "!bp_7f99961610390044391f300c7ef5e0c8",
+      "!bp_27327f8954cd4f91ab3deaebf1f8cfa7"
+    ]
+}

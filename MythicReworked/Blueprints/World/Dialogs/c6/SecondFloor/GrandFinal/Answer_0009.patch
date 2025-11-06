@@ -1,0 +1,22 @@
+{
+    "ShowConditions": {
+      "Operation": "And",
+      "Conditions": [
+        {
+          "$type": "5630fd6e5ff6d5845b423f9495bce210, UnitClass",
+          "name": "$UnitClass$88baa2ba-d784-462b-b947-65ce14175f81",
+          "Not": false,
+          "Unit": {
+            "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+            "name": "$PlayerCharacter$5a2e41c1-54b4-46f6-829e-ec0df8a5794d"
+          },
+          "m_Class": "!bp_8e19495ea576a8641964102d177e34b7",
+          "MinLevel": {
+            "$type": "9054151c7eb2e854ca7109522b1c3dde, IntConstant",
+            "name": "$IntConstant$43da6a13-8168-4260-8f37-7326ae5a6695",
+            "Value": 5
+          }
+        }
+      ]
+    }
+}

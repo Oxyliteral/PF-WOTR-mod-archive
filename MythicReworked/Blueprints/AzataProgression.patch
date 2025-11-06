@@ -1,0 +1,79 @@
+{
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_4997c2c310c64702a72f6a2df03b960b",
+		  "!bp_24e78475f0a243e1a810452d14d0a1bd",
+		  "!bp_5451c9b8530f4b71aadcaea42bd54ab7",
+		  "!bp_dca35b2802a24bc9be1e8c5ff860719f",
+		  "!bp_b172d5db251e3e0499671074ee15f7df",
+		  "!bp_526f2f4a13e94874e984ecd48adb7cfa",
+		  "!bp_02c96331ed2d87d43a4a3509142678b8",
+		  "!bp_90185ba04ff485845bbac7512e2c3c73",
+		  "!bp_cf36f23d60987224696f03be70351928",
+		  "!bp_2780764bf33c46745b11f0e1d2d20092",
+		  "!bp_2780764bf33c46745b11f0e1d2d20092",
+		  "!bp_2780764bf33c46745b11f0e1d2d20092",
+		  "!bp_31a8a71445f21a044b01eb877b8540db",
+		  "!bp_c2be02bc2014d4c4cbaf7c442a7f076f",
+		  "!bp_a1dd79df6909b0142915a3a88df4837d",
+		  "!bp_8a30e92cd04ff5b459ba7cb03584fda0",
+		  "!bp_8a30e92cd04ff5b459ba7cb03584fda0",
+		  "!bp_ba0e5a900b775be4a99702f1ed08914d",
+		  "!bp_9ee0f6745f555484299b0a1563b99d81"
+        ]
+      },
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_5886fe604f5e4206a92983dd23b179b8",
+		  "!bp_ba0e5a900b775be4a99702f1ed08914d",
+		  "!bp_69a33d6ced23446e819667149d088898",
+		  "!bp_2780764bf33c46745b11f0e1d2d20092",
+		  "!bp_4d9785fa28ab443289497ccb05e49fe2"
+        ]
+      },
+      {
+        "Level": 3,
+        "m_Features": [
+		  "!bp_14df25e93791453bbf7394735f1dcc1a",
+		  "!bp_9ee0f6745f555484299b0a1563b99d81",
+		  "!bp_69a33d6ced23446e819667149d088898",
+		  "!bp_2780764bf33c46745b11f0e1d2d20092",
+		  "!bp_1bfc72ee31e349ab91991d14e1db471e",
+		  "!bp_8a30e92cd04ff5b459ba7cb03584fda0"
+        ]
+      },
+      {
+        "Level": 4,
+        "m_Features": [
+		  "!bp_604cad4e5f6c4a169e424eb0a360ddc1",
+		  "!bp_ba0e5a900b775be4a99702f1ed08914d",
+		  "!bp_69a33d6ced23446e819667149d088898",
+		  "!bp_2780764bf33c46745b11f0e1d2d20092",
+		  "!bp_e0cd072417ac444a99e83eae51eea8df"
+        ]
+      },
+      {
+        "Level": 5,
+        "m_Features": [
+          "!bp_fe9f26b07940471c92021a523b909824",
+		  "!bp_e4b00b3f7be045fabdb722102c704ee7",
+		  "!bp_9ee0f6745f555484299b0a1563b99d81",
+		  "!bp_69a33d6ced23446e819667149d088898",
+		  "!bp_2780764bf33c46745b11f0e1d2d20092",
+		  "!bp_8a30e92cd04ff5b459ba7cb03584fda0"
+        ]
+      },
+      {
+        "Level": 6,
+        "m_Features": [
+		  "!bp_ba0e5a900b775be4a99702f1ed08914d",
+		  "!bp_9ee0f6745f555484299b0a1563b99d81",
+		  "!bp_69a33d6ced23446e819667149d088898",
+		  "!bp_2780764bf33c46745b11f0e1d2d20092"
+        ]
+      }
+    ]
+}

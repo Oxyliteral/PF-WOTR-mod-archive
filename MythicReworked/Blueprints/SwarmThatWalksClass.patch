@@ -1,0 +1,72 @@
+{
+    "Components": [
+      {
+        "$type": "36227fa23f553c147b651e99ff3cc485, MythicClassArtComponent",
+        "m_Flags": 0,
+        "name": "$MythicClassArtComponent$5309f602-1883-4772-8413-5627196589af",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_SelectorPortrait": {
+          "AssetId": "986fe0b3912932041b37e4b2199ddf83"
+        },
+        "m_SelectorPortraitLineart": {
+          "AssetId": "986fe0b3912932041b37e4b2199ddf83"
+        },
+        "m_CommonFrame": {
+          "AssetId": "6d09e5bb2ff888948a8ce7a762a8f0be"
+        },
+        "m_CommonFrameDecor": {
+          "AssetId": "7ea6e8d8754badb42a61fd5b519d6cc7"
+        },
+        "m_PortraitFrame": {
+          "AssetId": "c1843d87235e50147842e03431512d99"
+        },
+        "m_SelectorFrame": {
+          "AssetId": "543989e24eca2a1419f7e24c6bc88c54"
+        },
+        "m_AbilityFrame": {
+          "AssetId": "8c5c0ad5a36d39448a132f6e9f6dcbfb"
+        },
+        "m_Emblem": {
+          "AssetId": "c966d99d62ea483448013898d7fc0698"
+        },
+        "m_Portraits": [
+          "!bp_62b516b0da73c994db100c2cf60ab6d1"
+        ]
+      },
+      {
+        "$type": "5436494344c2496e9f8e835d990897ab, PrerequisiteMainCharacter",
+        "m_Flags": 0,
+        "name": "$PrerequisiteMainCharacter$6e5a4bc1-ca35-4773-8cdd-1047d9e03f80",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "Companion": false
+      },
+	  {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteClassLevel$bb189d28-0751-45b6-910a-829715e9eb27",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_CharacterClass": "!bp_6ae0c8c63a804d3a9af48ab7cc0b704e",
+        "Level": 2,
+        "Not": false
+      }
+    ],
+	"m_IsHigherMythic": false
+}
