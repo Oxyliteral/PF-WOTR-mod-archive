@@ -6,6 +6,12 @@ For mods to work, there MUST be "Assemblies" and "Bundles" folder inside the sam
 
 Please remember to update OwlcatModificationManagerSettings.json for mods to be recognized!
 
+**HamletRuinsFindable**
+Standalone version, makes Ruins of Ashberry Hamlet findable easily.
+
+**Level40**
+Modifies your first mythic level to unlock level 40, changes level 40 scaling so that you have twice the levels as what you're supposed to have.
+
 **Alignment:**
 All Mythic Paths are any Alignment. Doesn't exactly work due to 'fix alignment' mythic quests.
 
