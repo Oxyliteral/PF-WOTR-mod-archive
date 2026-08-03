@@ -1,0 +1,18 @@
+{
+    "BundlesLayout":
+    {
+        "m_Guids": [],
+        "m_Bundles": []
+    },
+    "BundleDependencies": 
+    {
+        "m_List": []
+    },
+    "BlueprintPatches":
+	[
+	    {
+	    "Guid": "38a3dc6744c5a434dbdd96c3451a389a",
+	    "Filename": "GlobalMaps\\WorldWoundGM\\Points\\Point_UndeadLair.patch"
+	    }
+	]
+}
